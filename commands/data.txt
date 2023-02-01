@@ -1,0 +1,6572 @@
+Map: ROUTE101
+Environment: land
+Min level: 2
+Max level: 2
+Species: SPECIES_SKIDDO
+Min level: 2
+Max level: 2
+Species: SPECIES_BLIPBUG
+Min level: 2
+Max level: 2
+Species: SPECIES_CATERPIE
+Min level: 3
+Max level: 3
+Species: SPECIES_GRUBBIN
+Min level: 3
+Max level: 3
+Species: SPECIES_SKIDDO
+Min level: 3
+Max level: 3
+Species: SPECIES_NICKIT
+Min level: 3
+Max level: 3
+Species: SPECIES_WOOLOO
+Min level: 3
+Max level: 3
+Species: SPECIES_HOOTHOOT
+Min level: 2
+Max level: 2
+Species: SPECIES_ZIGZAGOON
+Min level: 2
+Max level: 2
+Species: SPECIES_ABSOL
+Min level: 3
+Max level: 3
+Species: SPECIES_GROOKEY
+Min level: 3
+Max level: 3
+Species: SPECIES_ZIGZAGOON_GALARIAN
+Environment: hidden
+Min level: 3
+Max level: 5
+Species: SPECIES_PICHU_SPIKY_EARED
+Min level: 3
+Max level: 5
+Species: SPECIES_WEEDLE
+Min level: 3
+Max level: 5
+Species: SPECIES_DIGLETT
+Map: ROUTE102
+Environment: land
+Min level: 3
+Max level: 6
+Species: SPECIES_SKWOVET
+Min level: 4
+Max level: 6
+Species: SPECIES_ROOKIDEE
+Min level: 4
+Max level: 7
+Species: SPECIES_CHEWTLE
+Min level: 5
+Max level: 7
+Species: SPECIES_YAMPER
+Min level: 5
+Max level: 6
+Species: SPECIES_PURRLOIN
+Min level: 5
+Max level: 7
+Species: SPECIES_WOOLOO
+Min level: 5
+Max level: 7
+Species: SPECIES_RALTS
+Min level: 3
+Max level: 3
+Species: SPECIES_NICKIT
+Min level: 4
+Max level: 4
+Species: SPECIES_SKIDDO
+Min level: 4
+Max level: 4
+Species: SPECIES_ZIGZAGOON_GALARIAN
+Min level: 4
+Max level: 4
+Species: SPECIES_ABSOL
+Min level: 3
+Max level: 3
+Species: SPECIES_SUNKERN
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 20
+Species: SPECIES_CORPHISH
+Min level: 30
+Max level: 35
+Species: SPECIES_SEAKING
+Min level: 5
+Max level: 10
+Species: SPECIES_ARROKUDA
+Min level: 20
+Max level: 30
+Species: SPECIES_GOLDEEN
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_FEEBAS
+Min level: 10
+Max level: 15
+Species: SPECIES_CHEWTLE
+Min level: 10
+Max level: 14
+Species: SPECIES_ARROKUDA
+Min level: 10
+Max level: 14
+Species: SPECIES_CORPHISH
+Min level: 11
+Max level: 13
+Species: SPECIES_WISHIWASHI
+Min level: 9
+Max level: 13
+Species: SPECIES_OCTILLERY
+Min level: 10
+Max level: 15
+Species: SPECIES_SEAKING
+Min level: 4
+Max level: 13
+Species: SPECIES_MAGIKARP
+Min level: 12
+Max level: 18
+Species: SPECIES_QWILFISH
+Environment: hidden
+Min level: 3
+Max level: 5
+Species: SPECIES_TOXEL
+Min level: 3
+Max level: 5
+Species: SPECIES_TURTWIG
+Min level: 3
+Max level: 5
+Species: SPECIES_DITTO
+Map: ROUTE103
+Environment: land
+Min level: 2
+Max level: 5
+Species: SPECIES_POOCHYENA
+Min level: 3
+Max level: 4
+Species: SPECIES_PANCHAM
+Min level: 3
+Max level: 3
+Species: SPECIES_BOUNSWEET
+Min level: 4
+Max level: 4
+Species: SPECIES_POLIWAG
+Min level: 2
+Max level: 2
+Species: SPECIES_ZORUA_HISUIAN
+Min level: 3
+Max level: 3
+Species: SPECIES_STUFFUL
+Min level: 3
+Max level: 3
+Species: SPECIES_TYROGUE
+Min level: 4
+Max level: 4
+Species: SPECIES_GOSSIFLEUR
+Min level: 3
+Max level: 3
+Species: SPECIES_APPLIN
+Min level: 3
+Max level: 3
+Species: SPECIES_BELLSPROUT
+Min level: 2
+Max level: 2
+Species: SPECIES_TOGEDEMARU
+Min level: 4
+Max level: 4
+Species: SPECIES_FOMANTIS
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_KRABBY
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WISHIWASHI
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_GYARADOS
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_KRABBY
+Min level: 10
+Max level: 30
+Species: SPECIES_WISHIWASHI
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_TYMPOLE
+Min level: 25
+Max level: 30
+Species: SPECIES_FRILLISH
+Min level: 35
+Max level: 40
+Species: SPECIES_SKRELP
+Min level: 40
+Max level: 45
+Species: SPECIES_DEWPIDER
+Environment: hidden
+Min level: 3
+Max level: 5
+Species: SPECIES_RIOLU
+Min level: 3
+Max level: 5
+Species: SPECIES_LEDYBA
+Min level: 3
+Max level: 5
+Species: SPECIES_MUDKIP
+Map: ROUTE104
+Environment: land
+Min level: 4
+Max level: 4
+Species: SPECIES_DOTTLER
+Min level: 4
+Max level: 4
+Species: SPECIES_ESPURR
+Min level: 5
+Max level: 5
+Species: SPECIES_NUZLEAF
+Min level: 5
+Max level: 5
+Species: SPECIES_SWIRLIX
+Min level: 4
+Max level: 4
+Species: SPECIES_YAMPER
+Min level: 5
+Max level: 5
+Species: SPECIES_DEWPIDER
+Min level: 4
+Max level: 4
+Species: SPECIES_WINGULL
+Min level: 5
+Max level: 5
+Species: SPECIES_SHROOMISH
+Min level: 4
+Max level: 4
+Species: SPECIES_TREECKO
+Min level: 4
+Max level: 4
+Species: SPECIES_FARFETCHD_GALARIAN
+Min level: 3
+Max level: 3
+Species: SPECIES_FROAKIE
+Min level: 5
+Max level: 5
+Species: SPECIES_CYNDAQUIL
+Environment: water
+Min level: 10
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_QWILFISH
+Min level: 25
+Max level: 30
+Species: SPECIES_MANTYKE
+Min level: 25
+Max level: 30
+Species: SPECIES_JELLICENT
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_WOOPER
+Min level: 5
+Max level: 10
+Species: SPECIES_CHEWTLE
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 25
+Max level: 30
+Species: SPECIES_WISHIWASHI
+Min level: 30
+Max level: 35
+Species: SPECIES_WISHIWASHI_SCHOOL
+Min level: 20
+Max level: 25
+Species: SPECIES_BASCULIN
+Min level: 35
+Max level: 40
+Species: SPECIES_BASCULIN_BLUE_STRIPED
+Min level: 40
+Max level: 45
+Species: SPECIES_DHELMISE
+Environment: hidden
+Min level: 3
+Max level: 5
+Species: SPECIES_DUNSPARCE
+Min level: 3
+Max level: 5
+Species: SPECIES_EEVEE
+Min level: 3
+Max level: 5
+Species: SPECIES_SCORBUNNY
+Map: ROUTE105
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_BRUXISH
+Min level: 10
+Max level: 30
+Species: SPECIES_BASCULIN
+Min level: 15
+Max level: 25
+Species: SPECIES_CRAMORANT
+Min level: 25
+Max level: 30
+Species: SPECIES_ARAQUANID
+Min level: 25
+Max level: 30
+Species: SPECIES_WISHIWASHI_SCHOOL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_CLAUNCHER
+Min level: 5
+Max level: 10
+Species: SPECIES_ALOMOMOLA
+Min level: 10
+Max level: 30
+Species: SPECIES_FRILLISH
+Min level: 10
+Max level: 30
+Species: SPECIES_DUCKLETT
+Min level: 10
+Max level: 30
+Species: SPECIES_TIRTOUGA
+Min level: 25
+Max level: 30
+Species: SPECIES_PALPITOAD
+Min level: 30
+Max level: 35
+Species: SPECIES_PANPOUR
+Min level: 20
+Max level: 25
+Species: SPECIES_FINNEON
+Min level: 35
+Max level: 40
+Species: SPECIES_LUVDISC
+Min level: 40
+Max level: 45
+Species: SPECIES_BUIZEL
+Environment: hidden
+Min level: 22
+Max level: 30
+Species: SPECIES_SEEL
+Min level: 32
+Max level: 35
+Species: SPECIES_FEAROW
+Min level: 16
+Max level: 32
+Species: SPECIES_ARBOK
+Map: ROUTE110
+Environment: land
+Min level: 12
+Max level: 12
+Species: SPECIES_POOCHYENA
+Min level: 12
+Max level: 12
+Species: SPECIES_MAREEP
+Min level: 12
+Max level: 12
+Species: SPECIES_SHINX
+Min level: 13
+Max level: 13
+Species: SPECIES_PIKACHU
+Min level: 13
+Max level: 13
+Species: SPECIES_BLITZLE
+Min level: 13
+Max level: 13
+Species: SPECIES_EXEGGCUTE
+Min level: 13
+Max level: 13
+Species: SPECIES_EMOLGA
+Min level: 13
+Max level: 13
+Species: SPECIES_MORPEKO
+Min level: 12
+Max level: 12
+Species: SPECIES_DUCKLETT
+Min level: 12
+Max level: 12
+Species: SPECIES_PACHIRISU
+Min level: 12
+Max level: 12
+Species: SPECIES_PLUSLE
+Min level: 13
+Max level: 13
+Species: SPECIES_MIME_JR
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_DUCKLETT
+Min level: 10
+Max level: 30
+Species: SPECIES_ARROKUDA
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 30
+Max level: 31
+Species: SPECIES_PELIPPER
+Min level: 35
+Max level: 38
+Species: SPECIES_SWANNA
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_CORPHISH
+Min level: 25
+Max level: 30
+Species: SPECIES_CLAUNCHER
+Min level: 30
+Max level: 35
+Species: SPECIES_ARAQUANID
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WOOPER
+Environment: hidden
+Min level: 8
+Max level: 14
+Species: SPECIES_UNOWN
+Min level: 8
+Max level: 14
+Species: SPECIES_SHELMET
+Min level: 8
+Max level: 14
+Species: SPECIES_KARRABLAST
+Map: ROUTE111
+Environment: land
+Min level: 20
+Max level: 20
+Species: SPECIES_HIPPOPOTAS
+Min level: 20
+Max level: 20
+Species: SPECIES_SANDILE
+Min level: 21
+Max level: 21
+Species: SPECIES_SILICOBRA
+Min level: 21
+Max level: 21
+Species: SPECIES_MARACTUS
+Min level: 19
+Max level: 19
+Species: SPECIES_MUDBRAY
+Min level: 21
+Max level: 21
+Species: SPECIES_BALTOY
+Min level: 19
+Max level: 19
+Species: SPECIES_SANDSHREW
+Min level: 19
+Max level: 19
+Species: SPECIES_DRILBUR
+Min level: 20
+Max level: 20
+Species: SPECIES_DIGLETT_ALOLAN
+Min level: 20
+Max level: 20
+Species: SPECIES_CACNEA
+Min level: 22
+Max level: 22
+Species: SPECIES_TRAPINCH
+Min level: 22
+Max level: 22
+Species: SPECIES_GIBLE
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_WOOPER
+Min level: 10
+Max level: 20
+Species: SPECIES_WOOPER
+Min level: 30
+Max level: 35
+Species: SPECIES_WOOPER
+Min level: 5
+Max level: 10
+Species: SPECIES_WOOPER
+Min level: 20
+Max level: 30
+Species: SPECIES_WOOPER
+Environment: rock_smash
+Min level: 10
+Max level: 15
+Species: SPECIES_GEODUDE_ALOLAN
+Min level: 5
+Max level: 10
+Species: SPECIES_DIGLETT
+Min level: 15
+Max level: 20
+Species: SPECIES_SHUCKLE
+Min level: 15
+Max level: 20
+Species: SPECIES_DWEBBLE
+Min level: 15
+Max level: 20
+Species: SPECIES_GEODUDE
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 4
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 25
+Max level: 30
+Species: SPECIES_GOLDUCK
+Min level: 30
+Max level: 35
+Species: SPECIES_BARBOACH
+Min level: 20
+Max level: 25
+Species: SPECIES_SQUIRTLE
+Min level: 35
+Max level: 40
+Species: SPECIES_CLAMPERL
+Min level: 40
+Max level: 45
+Species: SPECIES_BARBOACH
+Environment: hidden
+Min level: 19
+Max level: 22
+Species: SPECIES_GLIGAR
+Min level: 19
+Max level: 22
+Species: SPECIES_ORICORIO
+Min level: 19
+Max level: 23
+Species: SPECIES_VIVILLON_SUN
+Map: ROUTE112
+Environment: land
+Min level: 15
+Max level: 15
+Species: SPECIES_DARUMAKA
+Min level: 15
+Max level: 15
+Species: SPECIES_HOUNDOUR
+Min level: 15
+Max level: 15
+Species: SPECIES_PANSEAR
+Min level: 14
+Max level: 14
+Species: SPECIES_DARUMAKA
+Min level: 14
+Max level: 14
+Species: SPECIES_FLETCHINDER
+Min level: 14
+Max level: 14
+Species: SPECIES_LITLEO
+Min level: 16
+Max level: 16
+Species: SPECIES_ORICORIO
+Min level: 16
+Max level: 16
+Species: SPECIES_GROWLITHE
+Min level: 17
+Max level: 17
+Species: SPECIES_DARUMAKA
+Min level: 16
+Max level: 16
+Species: SPECIES_PONYTA
+Min level: 16
+Max level: 16
+Species: SPECIES_NUMEL
+Min level: 16
+Max level: 16
+Species: SPECIES_CYNDAQUIL
+Environment: hidden
+Min level: 15
+Max level: 16
+Species: SPECIES_TURTONATOR
+Min level: 15
+Max level: 16
+Species: SPECIES_MAGMAR
+Min level: 15
+Max level: 16
+Species: SPECIES_ARCANINE_HISUIAN
+Map: ROUTE113
+Environment: land
+Min level: 15
+Max level: 15
+Species: SPECIES_PONYTA
+Min level: 15
+Max level: 15
+Species: SPECIES_HONEDGE
+Min level: 15
+Max level: 15
+Species: SPECIES_SPINDA
+Min level: 14
+Max level: 14
+Species: SPECIES_SPINDA
+Min level: 14
+Max level: 14
+Species: SPECIES_DURANT
+Min level: 15
+Max level: 15
+Species: SPECIES_FLETCHINDER
+Min level: 16
+Max level: 16
+Species: SPECIES_LITLEO
+Min level: 16
+Max level: 16
+Species: SPECIES_BUNNELBY
+Min level: 16
+Max level: 16
+Species: SPECIES_CARKOL
+Min level: 16
+Max level: 16
+Species: SPECIES_SKARMORY
+Min level: 16
+Max level: 16
+Species: SPECIES_CUFANT
+Min level: 16
+Max level: 16
+Species: SPECIES_GRIMER
+Environment: hidden
+Min level: 10
+Max level: 12
+Species: SPECIES_GROWLITHE_HISUIAN
+Min level: 10
+Max level: 12
+Species: SPECIES_SALANDIT
+Min level: 10
+Max level: 12
+Species: SPECIES_SENTRET
+Map: ROUTE114
+Environment: land
+Min level: 16
+Max level: 16
+Species: SPECIES_SWABLU
+Min level: 16
+Max level: 16
+Species: SPECIES_LOTAD
+Min level: 17
+Max level: 17
+Species: SPECIES_SWABLU
+Min level: 15
+Max level: 15
+Species: SPECIES_SWABLU
+Min level: 15
+Max level: 15
+Species: SPECIES_LOTAD
+Min level: 16
+Max level: 16
+Species: SPECIES_LOMBRE
+Min level: 16
+Max level: 16
+Species: SPECIES_COTTONEE
+Min level: 18
+Max level: 18
+Species: SPECIES_CRUSTLE
+Min level: 17
+Max level: 17
+Species: SPECIES_SEVIPER
+Min level: 15
+Max level: 15
+Species: SPECIES_VIVILLON_HIGH_PLAINS
+Min level: 17
+Max level: 17
+Species: SPECIES_AMOONGUSS
+Min level: 15
+Max level: 15
+Species: SPECIES_CHANSEY
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_MARILL
+Min level: 10
+Max level: 20
+Species: SPECIES_MARILL
+Min level: 30
+Max level: 35
+Species: SPECIES_MARILL
+Min level: 5
+Max level: 10
+Species: SPECIES_MARILL
+Min level: 20
+Max level: 30
+Species: SPECIES_GOLDEEN
+Environment: rock_smash
+Min level: 10
+Max level: 15
+Species: SPECIES_GEODUDE
+Min level: 5
+Max level: 10
+Species: SPECIES_GEODUDE
+Min level: 15
+Max level: 20
+Species: SPECIES_GEODUDE
+Min level: 15
+Max level: 20
+Species: SPECIES_GEODUDE
+Min level: 15
+Max level: 20
+Species: SPECIES_GEODUDE
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 25
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_BARBOACH
+Min level: 20
+Max level: 25
+Species: SPECIES_BARBOACH
+Min level: 35
+Max level: 40
+Species: SPECIES_BARBOACH
+Min level: 40
+Max level: 45
+Species: SPECIES_BARBOACH
+Environment: hidden
+Min level: 3
+Max level: 5
+Species: SPECIES_HOPPIP
+Min level: 3
+Max level: 5
+Species: SPECIES_TANGELA
+Min level: 3
+Max level: 5
+Species: SPECIES_MELTAN
+Map: ROUTE116
+Environment: land
+Min level: 6
+Max level: 6
+Species: SPECIES_SHINX
+Min level: 6
+Max level: 6
+Species: SPECIES_PACHIRISU
+Min level: 6
+Max level: 6
+Species: SPECIES_DRIFLOON
+Min level: 7
+Max level: 7
+Species: SPECIES_MUNCHLAX
+Min level: 7
+Max level: 7
+Species: SPECIES_VIVILLON_MEADOW
+Min level: 6
+Max level: 6
+Species: SPECIES_FLETCHLING
+Min level: 7
+Max level: 7
+Species: SPECIES_STARLY
+Min level: 8
+Max level: 8
+Species: SPECIES_RIOLU
+Min level: 7
+Max level: 7
+Species: SPECIES_CHATOT
+Min level: 8
+Max level: 8
+Species: SPECIES_ROWLET
+Min level: 7
+Max level: 7
+Species: SPECIES_TREECKO
+Min level: 8
+Max level: 8
+Species: SPECIES_ABSOL
+Environment: hidden
+Min level: 25
+Max level: 26
+Species: SPECIES_FURFROU_HEART_TRIM
+Min level: 26
+Max level: 26
+Species: SPECIES_FURFROU_KABUKI_TRIM
+Min level: 26
+Max level: 26
+Species: SPECIES_FURFROU_LA_REINE_TRIM
+Map: ROUTE117
+Environment: land
+Min level: 13
+Max level: 13
+Species: SPECIES_POOCHYENA
+Min level: 13
+Max level: 13
+Species: SPECIES_ODDISH
+Min level: 14
+Max level: 15
+Species: SPECIES_BUDEW
+Min level: 14
+Max level: 14
+Species: SPECIES_PARAS
+Min level: 13
+Max level: 13
+Species: SPECIES_MARILL
+Min level: 13
+Max level: 13
+Species: SPECIES_ABSOL
+Min level: 13
+Max level: 13
+Species: SPECIES_AIPOM
+Min level: 13
+Max level: 13
+Species: SPECIES_ILLUMISE
+Min level: 14
+Max level: 14
+Species: SPECIES_ILLUMISE
+Min level: 14
+Max level: 14
+Species: SPECIES_ILLUMISE
+Min level: 13
+Max level: 13
+Species: SPECIES_VOLBEAT
+Min level: 13
+Max level: 13
+Species: SPECIES_PICHU
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_AZURILL
+Min level: 10
+Max level: 20
+Species: SPECIES_TOTODILE
+Min level: 30
+Max level: 35
+Species: SPECIES_MARILL
+Min level: 5
+Max level: 10
+Species: SPECIES_MARILL
+Min level: 20
+Max level: 30
+Species: SPECIES_GOLDEEN
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_CORPHISH
+Min level: 25
+Max level: 30
+Species: SPECIES_CORPHISH
+Min level: 30
+Max level: 35
+Species: SPECIES_CORPHISH
+Min level: 20
+Max level: 25
+Species: SPECIES_CORPHISH
+Min level: 35
+Max level: 40
+Species: SPECIES_CORPHISH
+Min level: 40
+Max level: 45
+Species: SPECIES_CORPHISH
+Environment: hidden
+Min level: 25
+Max level: 26
+Species: SPECIES_FURFROU_MATRON_TRIM
+Min level: 26
+Max level: 26
+Species: SPECIES_FURFROU_PHARAOH_TRIM
+Min level: 26
+Max level: 26
+Species: SPECIES_FURFROU_STAR_TRIM
+Map: ROUTE118
+Environment: land
+Min level: 24
+Max level: 24
+Species: SPECIES_ZIGZAGOON_GALARIAN
+Min level: 24
+Max level: 24
+Species: SPECIES_RATICATE_ALOLAN
+Min level: 35
+Max level: 36
+Species: SPECIES_OBSTAGOON
+Min level: 26
+Max level: 26
+Species: SPECIES_MEOWTH
+Min level: 26
+Max level: 26
+Species: SPECIES_LINOONE_GALARIAN
+Min level: 26
+Max level: 26
+Species: SPECIES_MANECTRIC
+Min level: 25
+Max level: 25
+Species: SPECIES_PERSIAN
+Min level: 25
+Max level: 25
+Species: SPECIES_DEDENNE
+Min level: 26
+Max level: 26
+Species: SPECIES_FALINKS
+Min level: 26
+Max level: 26
+Species: SPECIES_DIGGERSBY
+Min level: 27
+Max level: 27
+Species: SPECIES_INKAY
+Min level: 25
+Max level: 25
+Species: SPECIES_ELECTRODE_HISUIAN
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_CARVANHA
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_CARVANHA
+Min level: 20
+Max level: 25
+Species: SPECIES_CARVANHA
+Min level: 35
+Max level: 40
+Species: SPECIES_CARVANHA
+Min level: 40
+Max level: 45
+Species: SPECIES_CARVANHA
+Environment: hidden
+Min level: 25
+Max level: 26
+Species: SPECIES_DEERLING_SUMMER
+Min level: 26
+Max level: 26
+Species: SPECIES_DEERLING_WINTER
+Min level: 34
+Max level: 35
+Species: SPECIES_SAWSBUCK_WINTER
+Map: ROUTE124
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_DUCKLETT
+Min level: 10
+Max level: 30
+Species: SPECIES_FRILLISH
+Min level: 15
+Max level: 25
+Species: SPECIES_CLAUNCHER
+Min level: 25
+Max level: 30
+Species: SPECIES_MAREANIE
+Min level: 25
+Max level: 30
+Species: SPECIES_BRUXISH
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: PETALBURG_WOODS
+Environment: land
+Min level: 5
+Max level: 8
+Species: SPECIES_SCATTERBUG
+Min level: 5
+Max level: 5
+Species: SPECIES_CUTIEFLY
+Min level: 5
+Max level: 5
+Species: SPECIES_DOTTLER
+Min level: 6
+Max level: 6
+Species: SPECIES_PHANTUMP
+Min level: 5
+Max level: 5
+Species: SPECIES_LARVESTA
+Min level: 5
+Max level: 5
+Species: SPECIES_SHUCKLE
+Min level: 6
+Max level: 6
+Species: SPECIES_SKORUPI
+Min level: 6
+Max level: 6
+Species: SPECIES_SIZZLIPEDE
+Min level: 5
+Max level: 5
+Species: SPECIES_SEWADDLE
+Min level: 5
+Max level: 5
+Species: SPECIES_SPINARAK
+Min level: 6
+Max level: 6
+Species: SPECIES_BURMY
+Min level: 7
+Max level: 9
+Species: SPECIES_SCYTHER
+Environment: hidden
+Min level: 3
+Max level: 5
+Species: SPECIES_CLEFFA
+Min level: 3
+Max level: 5
+Species: SPECIES_VENONAT
+Min level: 3
+Max level: 5
+Species: SPECIES_MANKEY
+Map: RUSTURF_TUNNEL
+Environment: land
+Min level: 6
+Max level: 6
+Species: SPECIES_ROLYCOLY
+Min level: 7
+Max level: 7
+Species: SPECIES_IMPIDIMP
+Min level: 6
+Max level: 6
+Species: SPECIES_RATTATA_ALOLAN
+Min level: 7
+Max level: 7
+Species: SPECIES_ROCKRUFF
+Min level: 7
+Max level: 7
+Species: SPECIES_BONSLY
+Min level: 7
+Max level: 6
+Species: SPECIES_ROGGENROLA
+Min level: 5
+Max level: 5
+Species: SPECIES_ROGGENROLA
+Min level: 8
+Max level: 8
+Species: SPECIES_DIGLETT
+Min level: 5
+Max level: 5
+Species: SPECIES_PARAS
+Min level: 8
+Max level: 8
+Species: SPECIES_DRILBUR
+Min level: 5
+Max level: 5
+Species: SPECIES_LARVITAR
+Min level: 8
+Max level: 8
+Species: SPECIES_DEINO
+Map: GRANITE_CAVE_1F
+Environment: land
+Min level: 7
+Max level: 7
+Species: SPECIES_NOIBAT
+Min level: 8
+Max level: 8
+Species: SPECIES_CARKOL
+Min level: 7
+Max level: 7
+Species: SPECIES_CARBINK
+Min level: 8
+Max level: 8
+Species: SPECIES_CUBONE
+Min level: 9
+Max level: 9
+Species: SPECIES_KANGASKHAN
+Min level: 8
+Max level: 8
+Species: SPECIES_WOOBAT
+Min level: 10
+Max level: 10
+Species: SPECIES_CHEWTLE
+Min level: 6
+Max level: 3
+Species: SPECIES_PATRAT
+Min level: 7
+Max level: 7
+Species: SPECIES_GLIGAR
+Min level: 8
+Max level: 8
+Species: SPECIES_RATTATA
+Min level: 6
+Max level: 6
+Species: SPECIES_GEODUDE_ALOLAN
+Min level: 9
+Max level: 9
+Species: SPECIES_RIOLU
+Map: GRANITE_CAVE_B1F
+Environment: land
+Min level: 9
+Max level: 9
+Species: SPECIES_NOIBAT
+Min level: 10
+Max level: 10
+Species: SPECIES_CARKOL
+Min level: 9
+Max level: 9
+Species: SPECIES_CARBINK
+Min level: 11
+Max level: 11
+Species: SPECIES_ARON
+Min level: 10
+Max level: 10
+Species: SPECIES_ZUBAT
+Min level: 9
+Max level: 9
+Species: SPECIES_WOOBAT
+Min level: 10
+Max level: 10
+Species: SPECIES_PATRAT
+Min level: 11
+Max level: 11
+Species: SPECIES_GLIGAR
+Min level: 10
+Max level: 10
+Species: SPECIES_RATTATA_ALOLAN
+Min level: 10
+Max level: 10
+Species: SPECIES_SABLEYE
+Min level: 9
+Max level: 9
+Species: SPECIES_ONIX
+Min level: 11
+Max level: 11
+Species: SPECIES_CHESPIN
+Map: MT_PYRE_1F
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_GASTLY
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_BANETTE
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_YAMASK
+Min level: 23
+Max level: 23
+Species: SPECIES_LITWICK
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_SINISTEA
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUPPET
+Min level: 29
+Max level: 29
+Species: SPECIES_HAUNTER
+Min level: 24
+Max level: 24
+Species: SPECIES_DREEPY
+Map: VICTORY_ROAD_1F
+Environment: land
+Min level: 40
+Max level: 40
+Species: SPECIES_LUXIO
+Min level: 40
+Max level: 40
+Species: SPECIES_ROSERADE
+Min level: 40
+Max level: 40
+Species: SPECIES_RAMPARDOS
+Min level: 40
+Max level: 40
+Species: SPECIES_HIPPOWDON
+Min level: 36
+Max level: 36
+Species: SPECIES_STOUTLAND
+Min level: 36
+Max level: 36
+Species: SPECIES_MUDSDALE
+Min level: 38
+Max level: 38
+Species: SPECIES_GOLEM
+Min level: 38
+Max level: 38
+Species: SPECIES_GLISCOR
+Min level: 36
+Max level: 36
+Species: SPECIES_PILOSWINE
+Min level: 36
+Max level: 36
+Species: SPECIES_PUPITAR
+Min level: 36
+Max level: 36
+Species: SPECIES_TORTERRA
+Min level: 48
+Max level: 50
+Species: SPECIES_GARCHOMP
+Map: SAFARI_ZONE_SOUTH
+Environment: land
+Min level: 25
+Max level: 25
+Species: SPECIES_ODDISH
+Min level: 27
+Max level: 27
+Species: SPECIES_ODDISH
+Min level: 25
+Max level: 25
+Species: SPECIES_GIRAFARIG
+Min level: 27
+Max level: 27
+Species: SPECIES_GIRAFARIG
+Min level: 25
+Max level: 25
+Species: SPECIES_NATU
+Min level: 25
+Max level: 25
+Species: SPECIES_DODUO
+Min level: 25
+Max level: 25
+Species: SPECIES_GLOOM
+Min level: 27
+Max level: 27
+Species: SPECIES_WOBBUFFET
+Min level: 25
+Max level: 25
+Species: SPECIES_PIKACHU
+Min level: 27
+Max level: 27
+Species: SPECIES_WOBBUFFET
+Min level: 27
+Max level: 27
+Species: SPECIES_PIKACHU
+Min level: 29
+Max level: 29
+Species: SPECIES_WOBBUFFET
+Map: UNDERWATER_ROUTE126
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_FRILLISH
+Min level: 20
+Max level: 30
+Species: SPECIES_ALOMOMOLA
+Min level: 30
+Max level: 35
+Species: SPECIES_TIRTOUGA
+Min level: 30
+Max level: 35
+Species: SPECIES_CHINCHOU
+Min level: 30
+Max level: 35
+Species: SPECIES_HUNTAIL
+Map: ABANDONED_SHIP_ROOMS_B1F
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 30
+Max level: 35
+Species: SPECIES_TENTACRUEL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 30
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 30
+Max level: 35
+Species: SPECIES_TENTACRUEL
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACRUEL
+Min level: 20
+Max level: 25
+Species: SPECIES_TENTACRUEL
+Map: GRANITE_CAVE_B2F
+Environment: land
+Min level: 10
+Max level: 10
+Species: SPECIES_NOIBAT
+Min level: 11
+Max level: 11
+Species: SPECIES_CARBINK
+Min level: 18
+Max level: 19
+Species: SPECIES_CARKOL
+Min level: 11
+Max level: 11
+Species: SPECIES_ROLYCOLY
+Min level: 12
+Max level: 12
+Species: SPECIES_CHEWTLE
+Min level: 12
+Max level: 13
+Species: SPECIES_ABRA
+Min level: 10
+Max level: 10
+Species: SPECIES_PATRAT
+Min level: 11
+Max level: 11
+Species: SPECIES_KANGASKHAN
+Min level: 12
+Max level: 12
+Species: SPECIES_ONIX
+Min level: 10
+Max level: 10
+Species: SPECIES_AXEW
+Min level: 12
+Max level: 12
+Species: SPECIES_BELDUM
+Min level: 5
+Max level: 10
+Species: SPECIES_MINIOR
+Environment: rock_smash
+Min level: 10
+Max level: 15
+Species: SPECIES_GEODUDE
+Min level: 10
+Max level: 20
+Species: SPECIES_NOSEPASS
+Min level: 5
+Max level: 10
+Species: SPECIES_GEODUDE_ALOLAN
+Min level: 15
+Max level: 20
+Species: SPECIES_SHUCKLE
+Min level: 15
+Max level: 20
+Species: SPECIES_LARVITAR
+Map: FIERY_PATH
+Environment: land
+Min level: 15
+Max level: 15
+Species: SPECIES_DARUMAKA
+Min level: 15
+Max level: 15
+Species: SPECIES_HEATMOR
+Min level: 16
+Max level: 16
+Species: SPECIES_LITLEO
+Min level: 15
+Max level: 15
+Species: SPECIES_MACHOP
+Min level: 15
+Max level: 15
+Species: SPECIES_TORKOAL
+Min level: 15
+Max level: 15
+Species: SPECIES_SLUGMA
+Min level: 16
+Max level: 16
+Species: SPECIES_PANSEAR
+Min level: 16
+Max level: 16
+Species: SPECIES_MACHOP
+Min level: 14
+Max level: 14
+Species: SPECIES_PIGNITE
+Min level: 16
+Max level: 16
+Species: SPECIES_TORKOAL
+Min level: 14
+Max level: 14
+Species: SPECIES_DREEPY
+Min level: 14
+Max level: 14
+Species: SPECIES_CHARMANDER
+Map: METEOR_FALLS_B1F_2R
+Environment: land
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_SWOOBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SWOOBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_SOLROCK
+Min level: 35
+Max level: 35
+Species: SPECIES_SWOOBAT
+Min level: 37
+Max level: 37
+Species: SPECIES_SOLROCK
+Min level: 25
+Max level: 25
+Species: SPECIES_SWOOBAT
+Min level: 39
+Max level: 39
+Species: SPECIES_SOLROCK
+Min level: 38
+Max level: 38
+Species: SPECIES_NOIBAT
+Min level: 40
+Max level: 40
+Species: SPECIES_NOIBAT
+Min level: 38
+Max level: 38
+Species: SPECIES_NOIBAT
+Min level: 40
+Max level: 40
+Species: SPECIES_NOIBAT
+Environment: water
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 25
+Max level: 35
+Species: SPECIES_SOLROCK
+Min level: 15
+Max level: 25
+Species: SPECIES_SOLROCK
+Min level: 5
+Max level: 15
+Species: SPECIES_SOLROCK
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 25
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_WHISCASH
+Min level: 35
+Max level: 40
+Species: SPECIES_WHISCASH
+Min level: 40
+Max level: 45
+Species: SPECIES_WHISCASH
+Map: JAGGED_PASS
+Environment: land
+Min level: 21
+Max level: 21
+Species: SPECIES_GROWLITHE
+Min level: 21
+Max level: 21
+Species: SPECIES_HOUNDOUR
+Min level: 21
+Max level: 21
+Species: SPECIES_HITMONLEE
+Min level: 20
+Max level: 20
+Species: SPECIES_HITMONCHAN
+Min level: 20
+Max level: 20
+Species: SPECIES_SLUGMA
+Min level: 20
+Max level: 20
+Species: SPECIES_HEATMOR
+Min level: 21
+Max level: 21
+Species: SPECIES_FLETCHINDER
+Min level: 22
+Max level: 22
+Species: SPECIES_LITLEO
+Min level: 22
+Max level: 22
+Species: SPECIES_NUMEL
+Min level: 22
+Max level: 22
+Species: SPECIES_SPOINK
+Min level: 22
+Max level: 22
+Species: SPECIES_NUMEL
+Min level: 22
+Max level: 22
+Species: SPECIES_SPOINK
+Map: ROUTE106
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_INKAY
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 15
+Max level: 25
+Species: SPECIES_QWILFISH
+Min level: 25
+Max level: 30
+Species: SPECIES_MALAMAR
+Min level: 25
+Max level: 30
+Species: SPECIES_CLOBBOPUS
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 5
+Max level: 10
+Species: SPECIES_BASCULIN
+Min level: 10
+Max level: 30
+Species: SPECIES_CLOBBOPUS
+Min level: 10
+Max level: 30
+Species: SPECIES_PSYDUCK
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_SHELLDER
+Min level: 30
+Max level: 35
+Species: SPECIES_ALOMOMOLA
+Min level: 20
+Max level: 25
+Species: SPECIES_ARROKUDA
+Min level: 35
+Max level: 40
+Species: SPECIES_AZURILL
+Min level: 40
+Max level: 45
+Species: SPECIES_GYARADOS
+Environment: hidden
+Min level: 20
+Max level: 28
+Species: SPECIES_DRATINI
+Min level: 20
+Max level: 28
+Species: SPECIES_AZUMARILL
+Min level: 20
+Max level: 28
+Species: SPECIES_PIDGEOTTO
+Map: ROUTE107
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_HORSEA
+Min level: 10
+Max level: 30
+Species: SPECIES_REMORAID
+Min level: 15
+Max level: 25
+Species: SPECIES_ARROKUDA
+Min level: 26
+Max level: 30
+Species: SPECIES_BARRASKEWDA
+Min level: 5
+Max level: 12
+Species: SPECIES_POPPLIO
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_BASCULIN
+Min level: 10
+Max level: 30
+Species: SPECIES_CLOBBOPUS
+Min level: 25
+Max level: 30
+Species: SPECIES_SHELLDER
+Min level: 30
+Max level: 35
+Species: SPECIES_ALOMOMOLA
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_ARROKUDA
+Min level: 40
+Max level: 45
+Species: SPECIES_MALAMAR
+Map: ROUTE108
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE109
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_DUCKLETT
+Min level: 10
+Max level: 30
+Species: SPECIES_BRIONNE
+Min level: 15
+Max level: 25
+Species: SPECIES_BRUXISH
+Min level: 25
+Max level: 30
+Species: SPECIES_CRAMORANT
+Min level: 25
+Max level: 30
+Species: SPECIES_ARCTOVISH
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_ARROKUDA
+Min level: 5
+Max level: 10
+Species: SPECIES_WISHIWASHI
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 14
+Max level: 15
+Species: SPECIES_SOBBLE
+Min level: 30
+Max level: 34
+Species: SPECIES_PYUKUMUKU
+Min level: 20
+Max level: 25
+Species: SPECIES_WIMPOD
+Min level: 29
+Max level: 36
+Species: SPECIES_CLAUNCHER
+Min level: 40
+Max level: 45
+Species: SPECIES_CLAWITZER
+Environment: hidden
+Min level: 8
+Max level: 14
+Species: SPECIES_SOBBLE
+Min level: 8
+Max level: 14
+Species: SPECIES_OSHAWOTT
+Min level: 37
+Max level: 40
+Species: SPECIES_CLAWITZER
+Map: ROUTE115
+Environment: land
+Min level: 23
+Max level: 23
+Species: SPECIES_RATTATA_ALOLAN
+Min level: 23
+Max level: 23
+Species: SPECIES_AUDINO
+Min level: 25
+Max level: 25
+Species: SPECIES_SANDSHREW_ALOLAN
+Min level: 24
+Max level: 24
+Species: SPECIES_VULPIX_ALOLAN
+Min level: 25
+Max level: 25
+Species: SPECIES_MEOWTH_ALOLAN
+Min level: 25
+Max level: 25
+Species: SPECIES_BONSLY
+Min level: 25
+Max level: 26
+Species: SPECIES_GRIMER_ALOLAN
+Min level: 25
+Max level: 26
+Species: SPECIES_GEODUDE_ALOLAN
+Min level: 28
+Max level: 29
+Species: SPECIES_CHERUBI
+Min level: 24
+Max level: 24
+Species: SPECIES_DROWZEE
+Min level: 22
+Max level: 28
+Species: SPECIES_CHANSEY
+Min level: 24
+Max level: 26
+Species: SPECIES_GABITE
+Environment: water
+Min level: 30
+Max level: 35
+Species: SPECIES_CRAWDAUNT
+Min level: 30
+Max level: 35
+Species: SPECIES_KINGLER
+Min level: 16
+Max level: 25
+Species: SPECIES_WARTORTLE
+Min level: 25
+Max level: 30
+Species: SPECIES_CLAUNCHER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_CARVANHA
+Min level: 5
+Max level: 10
+Species: SPECIES_BARBOACH
+Min level: 10
+Max level: 30
+Species: SPECIES_CORPHISH
+Min level: 10
+Max level: 30
+Species: SPECIES_SHELLOS
+Min level: 10
+Max level: 30
+Species: SPECIES_FINNEON
+Min level: 25
+Max level: 30
+Species: SPECIES_LUMINEON
+Min level: 30
+Max level: 35
+Species: SPECIES_TIRTOUGA
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_CLAWITZER
+Min level: 25
+Max level: 28
+Species: SPECIES_WIMPOD
+Environment: hidden
+Min level: 25
+Max level: 26
+Species: SPECIES_FURFROU_DANDY_TRIM
+Min level: 26
+Max level: 26
+Species: SPECIES_FURFROU_DEBUTANTE_TRIM
+Min level: 26
+Max level: 26
+Species: SPECIES_FURFROU_DIAMOND_TRIM
+Map: NEW_MAUVILLE_INSIDE
+Environment: land
+Min level: 24
+Max level: 24
+Species: SPECIES_PIKACHU
+Min level: 24
+Max level: 24
+Species: SPECIES_VOLTORB_HISUIAN
+Min level: 25
+Max level: 25
+Species: SPECIES_BOLTUND
+Min level: 25
+Max level: 25
+Species: SPECIES_MAGNEMITE
+Min level: 23
+Max level: 23
+Species: SPECIES_ELECTRIKE
+Min level: 23
+Max level: 23
+Species: SPECIES_ELEKID
+Min level: 26
+Max level: 26
+Species: SPECIES_LUXIO
+Min level: 27
+Max level: 28
+Species: SPECIES_ZEBSTRIKA
+Min level: 22
+Max level: 22
+Species: SPECIES_VOLTORB
+Min level: 22
+Max level: 22
+Species: SPECIES_MAGNETON
+Min level: 26
+Max level: 26
+Species: SPECIES_ELECTRODE
+Min level: 26
+Max level: 26
+Species: SPECIES_ROTOM
+Map: ROUTE119
+Environment: land
+Min level: 25
+Max level: 25
+Species: SPECIES_ZIGZAGOON_GALARIAN
+Min level: 25
+Max level: 25
+Species: SPECIES_LINOONE_GALARIAN
+Min level: 27
+Max level: 27
+Species: SPECIES_WATCHOG
+Min level: 26
+Max level: 26
+Species: SPECIES_PINSIR
+Min level: 35
+Max level: 35
+Species: SPECIES_OBSTAGOON
+Min level: 26
+Max level: 26
+Species: SPECIES_YANMA
+Min level: 27
+Max level: 27
+Species: SPECIES_BIBAREL
+Min level: 24
+Max level: 24
+Species: SPECIES_PINECO
+Min level: 25
+Max level: 24
+Species: SPECIES_SCYTHER
+Min level: 26
+Max level: 26
+Species: SPECIES_STARAVIA
+Min level: 27
+Max level: 27
+Species: SPECIES_TRUMBEAK
+Min level: 25
+Max level: 25
+Species: SPECIES_AMBIPOM
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 10
+Max level: 30
+Species: SPECIES_CARVANHA
+Min level: 25
+Max level: 30
+Species: SPECIES_CARVANHA
+Min level: 30
+Max level: 35
+Species: SPECIES_CARVANHA
+Min level: 20
+Max level: 25
+Species: SPECIES_CARVANHA
+Min level: 35
+Max level: 40
+Species: SPECIES_CARVANHA
+Min level: 40
+Max level: 45
+Species: SPECIES_WHISCASH
+Map: ROUTE120
+Environment: land
+Min level: 25
+Max level: 25
+Species: SPECIES_YANMA
+Min level: 25
+Max level: 25
+Species: SPECIES_MIGHTYENA
+Min level: 27
+Max level: 27
+Species: SPECIES_KADABRA
+Min level: 25
+Max level: 25
+Species: SPECIES_ARBOK
+Min level: 25
+Max level: 25
+Species: SPECIES_BEAUTIFLY
+Min level: 26
+Max level: 26
+Species: SPECIES_BUTTERFREE
+Min level: 27
+Max level: 27
+Species: SPECIES_SILICOBRA
+Min level: 27
+Max level: 27
+Species: SPECIES_VIVILLON_JUNGLE
+Min level: 25
+Max level: 25
+Species: SPECIES_ACCELGOR
+Min level: 27
+Max level: 27
+Species: SPECIES_PIKACHU
+Min level: 25
+Max level: 25
+Species: SPECIES_KLEFKI
+Min level: 25
+Max level: 25
+Species: SPECIES_MACHOKE
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 20
+Species: SPECIES_ARROKUDA
+Min level: 30
+Max level: 35
+Species: SPECIES_MARILL
+Min level: 5
+Max level: 10
+Species: SPECIES_MARILL
+Min level: 20
+Max level: 30
+Species: SPECIES_GOLDEEN
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 25
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_ARROKUDA
+Min level: 20
+Max level: 25
+Species: SPECIES_BARBOACH
+Min level: 35
+Max level: 40
+Species: SPECIES_WISHIWASHI
+Min level: 40
+Max level: 45
+Species: SPECIES_WISHIWASHI_SCHOOL
+Map: ROUTE121
+Environment: land
+Min level: 26
+Max level: 26
+Species: SPECIES_DRIFLOON
+Min level: 26
+Max level: 26
+Species: SPECIES_SHUPPET
+Min level: 26
+Max level: 26
+Species: SPECIES_HAUNTER
+Min level: 28
+Max level: 28
+Species: SPECIES_SHUPPET
+Min level: 28
+Max level: 28
+Species: SPECIES_MIGHTYENA
+Min level: 26
+Max level: 26
+Species: SPECIES_MISMAGIUS
+Min level: 28
+Max level: 28
+Species: SPECIES_ORICORIO
+Min level: 28
+Max level: 28
+Species: SPECIES_GLOOM
+Min level: 26
+Max level: 26
+Species: SPECIES_PUMPKABOO
+Min level: 34
+Max level: 34
+Species: SPECIES_BELLOSSOM
+Min level: 28
+Max level: 28
+Species: SPECIES_BRONZONG
+Min level: 25
+Max level: 25
+Species: SPECIES_DREEPY
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_FRILLISH
+Min level: 10
+Max level: 30
+Species: SPECIES_DRIFLOON
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE122
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_WISHIWASHI
+Min level: 10
+Max level: 30
+Species: SPECIES_SWANNA
+Min level: 15
+Max level: 25
+Species: SPECIES_MAGIKARP
+Min level: 25
+Max level: 30
+Species: SPECIES_GYARADOS
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE123
+Environment: land
+Min level: 26
+Max level: 26
+Species: SPECIES_LUXIO
+Min level: 26
+Max level: 26
+Species: SPECIES_PACHIRISU
+Min level: 26
+Max level: 26
+Species: SPECIES_BLITZLE
+Min level: 28
+Max level: 28
+Species: SPECIES_EMOLGA
+Min level: 28
+Max level: 28
+Species: SPECIES_JOLTIK
+Min level: 26
+Max level: 26
+Species: SPECIES_HELIOPTILE
+Min level: 28
+Max level: 28
+Species: SPECIES_DEDENNE
+Min level: 28
+Max level: 28
+Species: SPECIES_VIKAVOLT
+Min level: 26
+Max level: 26
+Species: SPECIES_SCOLIPEDE
+Min level: 27
+Max level: 27
+Species: SPECIES_TOGEDEMARU
+Min level: 28
+Max level: 28
+Species: SPECIES_BOLTUND
+Min level: 25
+Max level: 25
+Species: SPECIES_MAGNEZONE
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TYNAMO
+Min level: 10
+Max level: 30
+Species: SPECIES_DUCKLETT
+Min level: 15
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACRUEL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: MT_PYRE_2F
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_GASTLY
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_BANETTE
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_YAMASK
+Min level: 23
+Max level: 23
+Species: SPECIES_LITWICK
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_SINISTEA
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUPPET
+Min level: 29
+Max level: 29
+Species: SPECIES_HAUNTER
+Min level: 24
+Max level: 24
+Species: SPECIES_DREEPY
+Map: MT_PYRE_3F
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_GASTLY
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_BANETTE
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_YAMASK
+Min level: 23
+Max level: 23
+Species: SPECIES_LITWICK
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_SINISTEA
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUPPET
+Min level: 29
+Max level: 29
+Species: SPECIES_HAUNTER
+Min level: 24
+Max level: 24
+Species: SPECIES_DREEPY
+Map: MT_PYRE_4F
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_GASTLY
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_BANETTE
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_YAMASK
+Min level: 23
+Max level: 23
+Species: SPECIES_LITWICK
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_SINISTEA
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUPPET
+Min level: 29
+Max level: 29
+Species: SPECIES_HAUNTER
+Min level: 24
+Max level: 24
+Species: SPECIES_DREEPY
+Map: MT_PYRE_5F
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_GASTLY
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_BANETTE
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_YAMASK
+Min level: 23
+Max level: 23
+Species: SPECIES_LITWICK
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_SINISTEA
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUPPET
+Min level: 29
+Max level: 29
+Species: SPECIES_HAUNTER
+Min level: 24
+Max level: 24
+Species: SPECIES_DREEPY
+Map: MT_PYRE_6F
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_GASTLY
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_BANETTE
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_YAMASK
+Min level: 23
+Max level: 23
+Species: SPECIES_LITWICK
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_SINISTEA
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUPPET
+Min level: 29
+Max level: 29
+Species: SPECIES_HAUNTER
+Min level: 24
+Max level: 24
+Species: SPECIES_DREEPY
+Map: MT_PYRE_EXTERIOR
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_MAROWAK_ALOLAN
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_VIVILLON_HIGH_PLAINS
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_VULLABY
+Min level: 23
+Max level: 23
+Species: SPECIES_VULLABY
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_GOLETT
+Min level: 24
+Max level: 24
+Species: SPECIES_ROTOM
+Min level: 29
+Max level: 29
+Species: SPECIES_SPIRITOMB
+Min level: 24
+Max level: 24
+Species: SPECIES_DREEPY
+Map: MT_PYRE_SUMMIT
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_MAROWAK_ALOLAN
+Min level: 28
+Max level: 28
+Species: SPECIES_DUSKULL
+Min level: 26
+Max level: 26
+Species: SPECIES_VIVILLON_HIGH_PLAINS
+Min level: 25
+Max level: 25
+Species: SPECIES_MISDREAVUS
+Min level: 29
+Max level: 29
+Species: SPECIES_FROSLASS
+Min level: 24
+Max level: 24
+Species: SPECIES_VULLABY
+Min level: 23
+Max level: 23
+Species: SPECIES_VULLABY
+Min level: 22
+Max level: 22
+Species: SPECIES_MIMIKYU
+Min level: 29
+Max level: 29
+Species: SPECIES_GOLETT
+Min level: 24
+Max level: 24
+Species: SPECIES_ROTOM
+Min level: 29
+Max level: 29
+Species: SPECIES_SPIRITOMB
+Min level: 24
+Max level: 24
+Species: SPECIES_RUFFLET
+Map: GRANITE_CAVE_STEVENS_ROOM
+Environment: land
+Min level: 7
+Max level: 7
+Species: SPECIES_NOIBAT
+Min level: 8
+Max level: 8
+Species: SPECIES_MACHOP
+Min level: 7
+Max level: 7
+Species: SPECIES_CRANIDOS
+Min level: 8
+Max level: 8
+Species: SPECIES_WOOBAT
+Min level: 9
+Max level: 9
+Species: SPECIES_ROGGENROLA
+Min level: 8
+Max level: 8
+Species: SPECIES_ROCKRUFF
+Min level: 10
+Max level: 10
+Species: SPECIES_MINIOR
+Min level: 6
+Max level: 6
+Species: SPECIES_CHEWTLE
+Min level: 7
+Max level: 7
+Species: SPECIES_ROLYCOLY
+Min level: 8
+Max level: 8
+Species: SPECIES_BONSLY
+Min level: 7
+Max level: 7
+Species: SPECIES_SHIELDON
+Min level: 8
+Max level: 8
+Species: SPECIES_LARVITAR
+Environment: hidden
+Min level: 3
+Max level: 5
+Species: SPECIES_NIDORAN_F
+Min level: 3
+Max level: 5
+Species: SPECIES_NIDORAN_M
+Min level: 3
+Max level: 5
+Species: SPECIES_VULPIX
+Map: ROUTE125
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_ARROKUDA
+Min level: 10
+Max level: 30
+Species: SPECIES_CRAMORANT
+Min level: 15
+Max level: 25
+Species: SPECIES_WISHIWASHI_SCHOOL
+Min level: 25
+Max level: 30
+Species: SPECIES_JELLICENT
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE126
+Environment: water
+Min level: 34
+Max level: 35
+Species: SPECIES_DEWGONG
+Min level: 10
+Max level: 30
+Species: SPECIES_SPHEAL
+Min level: 15
+Max level: 25
+Species: SPECIES_CRABRAWLER
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACRUEL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE127
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_EISCUE
+Min level: 33
+Max level: 33
+Species: SPECIES_SWANNA
+Min level: 15
+Max level: 25
+Species: SPECIES_DUCKLETT
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE128
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_CLOYSTER
+Min level: 10
+Max level: 30
+Species: SPECIES_CLOBBOPUS
+Min level: 15
+Max level: 25
+Species: SPECIES_LAPRAS
+Min level: 25
+Max level: 30
+Species: SPECIES_CLAUNCHER
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACRUEL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_LUVDISC
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_LUVDISC
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_CORSOLA
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE129
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_CLOBBOPUS
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 40
+Max level: 41
+Species: SPECIES_WAILORD
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE130
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_WYNAUT
+Min level: 35
+Max level: 35
+Species: SPECIES_WYNAUT
+Min level: 25
+Max level: 25
+Species: SPECIES_WYNAUT
+Min level: 40
+Max level: 40
+Species: SPECIES_WYNAUT
+Min level: 20
+Max level: 20
+Species: SPECIES_WYNAUT
+Min level: 45
+Max level: 45
+Species: SPECIES_WYNAUT
+Min level: 15
+Max level: 15
+Species: SPECIES_WYNAUT
+Min level: 50
+Max level: 50
+Species: SPECIES_WYNAUT
+Min level: 10
+Max level: 10
+Species: SPECIES_WYNAUT
+Min level: 5
+Max level: 5
+Species: SPECIES_WYNAUT
+Min level: 10
+Max level: 10
+Species: SPECIES_WYNAUT
+Min level: 5
+Max level: 5
+Species: SPECIES_WYNAUT
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE131
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_EISCUE_NOICE_FACE
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 43
+Species: SPECIES_WAILORD
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE132
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_HORSEA
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE133
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_SWANNA
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACRUEL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_HORSEA
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ROUTE134
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_CARVANHA
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 15
+Max level: 25
+Species: SPECIES_MAGIKARP
+Min level: 25
+Max level: 30
+Species: SPECIES_SHARPEDO
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_HORSEA
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: ABANDONED_SHIP_HIDDEN_FLOOR_CORRIDORS
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 30
+Max level: 35
+Species: SPECIES_TENTACRUEL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 30
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 30
+Max level: 35
+Species: SPECIES_TENTACRUEL
+Min level: 25
+Max level: 30
+Species: SPECIES_TENTACRUEL
+Min level: 20
+Max level: 25
+Species: SPECIES_TENTACRUEL
+Map: SEAFLOOR_CAVERN_ROOM1
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: SEAFLOOR_CAVERN_ROOM2
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: SEAFLOOR_CAVERN_ROOM3
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: SEAFLOOR_CAVERN_ROOM4
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: SEAFLOOR_CAVERN_ROOM5
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: SEAFLOOR_CAVERN_ROOM6
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: SEAFLOOR_CAVERN_ROOM7
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: SEAFLOOR_CAVERN_ROOM8
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: SEAFLOOR_CAVERN_ENTRANCE
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: CAVE_OF_ORIGIN_ENTRANCE
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 29
+Max level: 29
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: CAVE_OF_ORIGIN_1F
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SABLEYE
+Min level: 32
+Max level: 32
+Species: SPECIES_SABLEYE
+Min level: 34
+Max level: 34
+Species: SPECIES_SABLEYE
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: CAVE_OF_ORIGIN_UNUSED_RUBY_SAPPHIRE_MAP1
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SABLEYE
+Min level: 32
+Max level: 32
+Species: SPECIES_SABLEYE
+Min level: 34
+Max level: 34
+Species: SPECIES_SABLEYE
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: CAVE_OF_ORIGIN_UNUSED_RUBY_SAPPHIRE_MAP2
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SABLEYE
+Min level: 32
+Max level: 32
+Species: SPECIES_SABLEYE
+Min level: 34
+Max level: 34
+Species: SPECIES_SABLEYE
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: CAVE_OF_ORIGIN_UNUSED_RUBY_SAPPHIRE_MAP3
+Environment: land
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 31
+Max level: 31
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SABLEYE
+Min level: 32
+Max level: 32
+Species: SPECIES_SABLEYE
+Min level: 34
+Max level: 34
+Species: SPECIES_SABLEYE
+Min level: 33
+Max level: 33
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_ZUBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 36
+Max level: 36
+Species: SPECIES_NOIBAT
+Map: NEW_MAUVILLE_ENTRANCE
+Environment: land
+Min level: 24
+Max level: 24
+Species: SPECIES_VOLTORB
+Min level: 24
+Max level: 24
+Species: SPECIES_GEODUDE_ALOLAN
+Min level: 25
+Max level: 25
+Species: SPECIES_PIKACHU
+Min level: 23
+Max level: 25
+Species: SPECIES_MAGNEMITE
+Min level: 23
+Max level: 23
+Species: SPECIES_PIKACHU
+Min level: 23
+Max level: 23
+Species: SPECIES_MAGNEMITE
+Min level: 26
+Max level: 26
+Species: SPECIES_PIKACHU
+Min level: 26
+Max level: 26
+Species: SPECIES_PIKACHU
+Min level: 22
+Max level: 22
+Species: SPECIES_PIKACHU
+Min level: 22
+Max level: 22
+Species: SPECIES_MAGNEMITE
+Min level: 22
+Max level: 22
+Species: SPECIES_VOLTORB
+Min level: 22
+Max level: 22
+Species: SPECIES_DIGLETT
+Map: SAFARI_ZONE_SOUTHWEST
+Environment: land
+Min level: 25
+Max level: 25
+Species: SPECIES_ODDISH
+Min level: 27
+Max level: 27
+Species: SPECIES_ODDISH
+Min level: 25
+Max level: 25
+Species: SPECIES_GIRAFARIG
+Min level: 27
+Max level: 27
+Species: SPECIES_GIRAFARIG
+Min level: 25
+Max level: 25
+Species: SPECIES_NATU
+Min level: 27
+Max level: 27
+Species: SPECIES_DODUO
+Min level: 25
+Max level: 25
+Species: SPECIES_GLOOM
+Min level: 27
+Max level: 27
+Species: SPECIES_WOBBUFFET
+Min level: 25
+Max level: 25
+Species: SPECIES_PIKACHU
+Min level: 27
+Max level: 27
+Species: SPECIES_WOBBUFFET
+Min level: 27
+Max level: 27
+Species: SPECIES_PIKACHU
+Min level: 29
+Max level: 29
+Species: SPECIES_WOBBUFFET
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_PSYDUCK
+Min level: 20
+Max level: 30
+Species: SPECIES_PSYDUCK
+Min level: 30
+Max level: 35
+Species: SPECIES_PSYDUCK
+Min level: 30
+Max level: 35
+Species: SPECIES_PSYDUCK
+Min level: 30
+Max level: 35
+Species: SPECIES_PSYDUCK
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 25
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 25
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 30
+Max level: 35
+Species: SPECIES_GOLDEEN
+Min level: 30
+Max level: 35
+Species: SPECIES_SEAKING
+Min level: 35
+Max level: 40
+Species: SPECIES_SEAKING
+Min level: 25
+Max level: 30
+Species: SPECIES_SEAKING
+Map: SAFARI_ZONE_NORTH
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_PHANPY
+Min level: 27
+Max level: 27
+Species: SPECIES_ODDISH
+Min level: 29
+Max level: 29
+Species: SPECIES_PHANPY
+Min level: 29
+Max level: 29
+Species: SPECIES_ODDISH
+Min level: 27
+Max level: 27
+Species: SPECIES_NATU
+Min level: 29
+Max level: 29
+Species: SPECIES_GLOOM
+Min level: 31
+Max level: 31
+Species: SPECIES_GLOOM
+Min level: 29
+Max level: 29
+Species: SPECIES_NATU
+Min level: 29
+Max level: 29
+Species: SPECIES_XATU
+Min level: 27
+Max level: 27
+Species: SPECIES_HERACROSS
+Min level: 31
+Max level: 31
+Species: SPECIES_XATU
+Min level: 29
+Max level: 29
+Species: SPECIES_HERACROSS
+Environment: rock_smash
+Min level: 10
+Max level: 15
+Species: SPECIES_GEODUDE
+Min level: 5
+Max level: 10
+Species: SPECIES_GEODUDE
+Min level: 15
+Max level: 20
+Species: SPECIES_GEODUDE
+Min level: 20
+Max level: 25
+Species: SPECIES_GEODUDE
+Min level: 25
+Max level: 30
+Species: SPECIES_GEODUDE
+Map: SAFARI_ZONE_NORTHWEST
+Environment: land
+Min level: 27
+Max level: 27
+Species: SPECIES_RHYHORN
+Min level: 28
+Max level: 29
+Species: SPECIES_ODDISH
+Min level: 29
+Max level: 29
+Species: SPECIES_RHYHORN
+Min level: 29
+Max level: 29
+Species: SPECIES_ODDISH
+Min level: 27
+Max level: 27
+Species: SPECIES_DODUO
+Min level: 29
+Max level: 29
+Species: SPECIES_GLOOM
+Min level: 31
+Max level: 31
+Species: SPECIES_GLOOM
+Min level: 29
+Max level: 29
+Species: SPECIES_DODUO
+Min level: 29
+Max level: 29
+Species: SPECIES_DODRIO
+Min level: 27
+Max level: 27
+Species: SPECIES_PINSIR
+Min level: 31
+Max level: 31
+Species: SPECIES_DODRIO
+Min level: 29
+Max level: 29
+Species: SPECIES_PINSIR
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_PSYDUCK
+Min level: 20
+Max level: 30
+Species: SPECIES_PSYDUCK
+Min level: 30
+Max level: 35
+Species: SPECIES_PSYDUCK
+Min level: 30
+Max level: 35
+Species: SPECIES_GOLDUCK
+Min level: 25
+Max level: 40
+Species: SPECIES_GOLDUCK
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 25
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 25
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 30
+Max level: 35
+Species: SPECIES_GOLDEEN
+Min level: 30
+Max level: 35
+Species: SPECIES_SEAKING
+Min level: 35
+Max level: 40
+Species: SPECIES_SEAKING
+Min level: 25
+Max level: 30
+Species: SPECIES_SEAKING
+Map: VICTORY_ROAD_B1F
+Environment: land
+Min level: 40
+Max level: 40
+Species: SPECIES_LUXIO
+Min level: 40
+Max level: 40
+Species: SPECIES_ROSERADE
+Min level: 40
+Max level: 40
+Species: SPECIES_RAMPARDOS
+Min level: 40
+Max level: 40
+Species: SPECIES_HIPPOWDON
+Min level: 36
+Max level: 36
+Species: SPECIES_STOUTLAND
+Min level: 36
+Max level: 36
+Species: SPECIES_MUDSDALE
+Min level: 38
+Max level: 38
+Species: SPECIES_GOLEM
+Min level: 38
+Max level: 38
+Species: SPECIES_GLISCOR
+Min level: 36
+Max level: 36
+Species: SPECIES_PILOSWINE
+Min level: 36
+Max level: 36
+Species: SPECIES_PUPITAR
+Min level: 36
+Max level: 36
+Species: SPECIES_STONJOURNER
+Min level: 48
+Max level: 50
+Species: SPECIES_GARCHOMP
+Environment: rock_smash
+Min level: 30
+Max level: 40
+Species: SPECIES_GRAVELER
+Min level: 30
+Max level: 40
+Species: SPECIES_GEODUDE
+Min level: 35
+Max level: 40
+Species: SPECIES_GRAVELER
+Min level: 35
+Max level: 40
+Species: SPECIES_GRAVELER
+Min level: 35
+Max level: 40
+Species: SPECIES_GRAVELER
+Map: VICTORY_ROAD_B2F
+Environment: land
+Min level: 40
+Max level: 40
+Species: SPECIES_LUXIO
+Min level: 40
+Max level: 40
+Species: SPECIES_ROSERADE
+Min level: 40
+Max level: 40
+Species: SPECIES_RAMPARDOS
+Min level: 40
+Max level: 40
+Species: SPECIES_HIPPOWDON
+Min level: 36
+Max level: 36
+Species: SPECIES_STOUTLAND
+Min level: 36
+Max level: 36
+Species: SPECIES_MUDSDALE
+Min level: 38
+Max level: 38
+Species: SPECIES_GOLEM
+Min level: 38
+Max level: 38
+Species: SPECIES_GLISCOR
+Min level: 36
+Max level: 36
+Species: SPECIES_PILOSWINE
+Min level: 36
+Max level: 36
+Species: SPECIES_PUPITAR
+Min level: 36
+Max level: 36
+Species: SPECIES_TORTERRA
+Min level: 48
+Max level: 50
+Species: SPECIES_GARCHOMP
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 25
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_WHISCASH
+Min level: 35
+Max level: 40
+Species: SPECIES_WHISCASH
+Min level: 40
+Max level: 45
+Species: SPECIES_WHISCASH
+Map: METEOR_FALLS_1F_1R
+Environment: land
+Min level: 16
+Max level: 16
+Species: SPECIES_SWOOBAT
+Min level: 17
+Max level: 17
+Species: SPECIES_NOIBAT
+Min level: 18
+Max level: 18
+Species: SPECIES_ZUBAT
+Min level: 15
+Max level: 15
+Species: SPECIES_ACCELGOR
+Min level: 14
+Max level: 14
+Species: SPECIES_LITWICK
+Min level: 16
+Max level: 16
+Species: SPECIES_SOLROCK
+Min level: 18
+Max level: 18
+Species: SPECIES_LARVITAR
+Min level: 14
+Max level: 14
+Species: SPECIES_NOSEPASS
+Min level: 19
+Max level: 19
+Species: SPECIES_ROCKRUFF
+Min level: 20
+Max level: 20
+Species: SPECIES_CARBINK
+Min level: 19
+Max level: 19
+Species: SPECIES_BINACLE
+Min level: 20
+Max level: 20
+Species: SPECIES_ONIX
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 25
+Max level: 35
+Species: SPECIES_SOLROCK
+Min level: 15
+Max level: 25
+Species: SPECIES_SOLROCK
+Min level: 5
+Max level: 15
+Species: SPECIES_SOLROCK
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 25
+Max level: 30
+Species: SPECIES_ARROKUDA
+Min level: 30
+Max level: 35
+Species: SPECIES_BARBOACH
+Min level: 20
+Max level: 25
+Species: SPECIES_KABUTO
+Min level: 35
+Max level: 40
+Species: SPECIES_OMANYTE
+Min level: 40
+Max level: 45
+Species: SPECIES_GYARADOS
+Map: METEOR_FALLS_1F_2R
+Environment: land
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_CUFANT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_SOLROCK
+Min level: 33
+Max level: 33
+Species: SPECIES_SOLROCK
+Min level: 37
+Max level: 37
+Species: SPECIES_SOLROCK
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 39
+Max level: 39
+Species: SPECIES_SOLROCK
+Min level: 38
+Max level: 38
+Species: SPECIES_NOIBAT
+Min level: 40
+Max level: 40
+Species: SPECIES_NOIBAT
+Min level: 38
+Max level: 38
+Species: SPECIES_NOIBAT
+Min level: 40
+Max level: 40
+Species: SPECIES_NOIBAT
+Environment: water
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 25
+Max level: 35
+Species: SPECIES_SOLROCK
+Min level: 15
+Max level: 25
+Species: SPECIES_SOLROCK
+Min level: 5
+Max level: 15
+Species: SPECIES_SOLROCK
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 25
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_WHISCASH
+Min level: 35
+Max level: 40
+Species: SPECIES_WHISCASH
+Min level: 40
+Max level: 45
+Species: SPECIES_WHISCASH
+Environment: hidden
+Min level: 35
+Max level: 36
+Species: SPECIES_DURALUDON
+Min level: 35
+Max level: 36
+Species: SPECIES_TYRUNT
+Min level: 15
+Max level: 18
+Species: SPECIES_SHELLOS_EAST_SEA
+Map: METEOR_FALLS_B1F_1R
+Environment: land
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_PUPITAR
+Min level: 33
+Max level: 33
+Species: SPECIES_RHYHORN
+Min level: 35
+Max level: 35
+Species: SPECIES_LYCANROC
+Min level: 33
+Max level: 33
+Species: SPECIES_LYCANROC
+Min level: 37
+Max level: 37
+Species: SPECIES_SOLROCK
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 39
+Max level: 39
+Species: SPECIES_SOLROCK
+Min level: 42
+Max level: 42
+Species: SPECIES_RHYDON
+Min level: 40
+Max level: 40
+Species: SPECIES_DREDNAW
+Min level: 38
+Max level: 38
+Species: SPECIES_MINIOR
+Min level: 48
+Max level: 48
+Species: SPECIES_NOIVERN
+Environment: water
+Min level: 30
+Max level: 35
+Species: SPECIES_RELICANTH
+Min level: 30
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 25
+Max level: 35
+Species: SPECIES_SOLROCK
+Min level: 15
+Max level: 25
+Species: SPECIES_LUNATONE
+Min level: 28
+Max level: 31
+Species: SPECIES_GYARADOS
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_ARROKUDA
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 25
+Max level: 30
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_BARBOACH
+Min level: 30
+Max level: 35
+Species: SPECIES_WHISCASH
+Min level: 35
+Max level: 40
+Species: SPECIES_WHISCASH
+Min level: 40
+Max level: 45
+Species: SPECIES_GYARADOS
+Map: SHOAL_CAVE_LOW_TIDE_STAIRS_ROOM
+Environment: land
+Min level: 26
+Max level: 26
+Species: SPECIES_ZUBAT
+Min level: 26
+Max level: 26
+Species: SPECIES_SPHEAL
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_SPHEAL
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_NOIBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_NOIBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Map: SHOAL_CAVE_LOW_TIDE_LOWER_ROOM
+Environment: land
+Min level: 26
+Max level: 26
+Species: SPECIES_ZUBAT
+Min level: 26
+Max level: 24
+Species: SPECIES_SPHEAL
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_SPHEAL
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_NOIBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_NOIBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Map: SHOAL_CAVE_LOW_TIDE_INNER_ROOM
+Environment: land
+Min level: 26
+Max level: 26
+Species: SPECIES_ZUBAT
+Min level: 26
+Max level: 26
+Species: SPECIES_SPHEAL
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_SPHEAL
+Min level: 30
+Max level: 30
+Species: SPECIES_ZUBAT
+Min level: 30
+Max level: 30
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_ZUBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_NOIBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Min level: 32
+Max level: 32
+Species: SPECIES_NOIBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SPHEAL
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 25
+Max level: 30
+Species: SPECIES_SPHEAL
+Min level: 25
+Max level: 30
+Species: SPECIES_SPHEAL
+Min level: 25
+Max level: 35
+Species: SPECIES_SPHEAL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: SHOAL_CAVE_LOW_TIDE_ENTRANCE_ROOM
+Environment: land
+Min level: 26
+Max level: 26
+Species: SPECIES_WOOBAT
+Min level: 26
+Max level: 26
+Species: SPECIES_NOIBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_ZUBAT
+Min level: 28
+Max level: 28
+Species: SPECIES_SPHEAL
+Min level: 30
+Max level: 30
+Species: SPECIES_SNEASEL
+Min level: 30
+Max level: 30
+Species: SPECIES_BERGMITE
+Min level: 32
+Max level: 32
+Species: SPECIES_FROSMOTH
+Min level: 32
+Max level: 32
+Species: SPECIES_SWOOBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_NOIBAT
+Min level: 32
+Max level: 32
+Species: SPECIES_SANDSLASH_ALOLAN
+Min level: 32
+Max level: 32
+Species: SPECIES_CRYOGONAL
+Min level: 32
+Max level: 32
+Species: SPECIES_GLACEON
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 5
+Max level: 35
+Species: SPECIES_ZUBAT
+Min level: 25
+Max level: 30
+Species: SPECIES_SPHEAL
+Min level: 25
+Max level: 30
+Species: SPECIES_SEEL
+Min level: 25
+Max level: 35
+Species: SPECIES_VANILLITE
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: LILYCOVE_CITY
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_STARYU
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: DEWFORD_TOWN
+Environment: water
+Min level: 5
+Max level: 29
+Species: SPECIES_INKAY
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 15
+Max level: 25
+Species: SPECIES_QWILFISH
+Min level: 30
+Max level: 37
+Species: SPECIES_MALAMAR
+Min level: 25
+Max level: 30
+Species: SPECIES_CLOBBOPUS
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 5
+Max level: 10
+Species: SPECIES_BASCULIN
+Min level: 10
+Max level: 30
+Species: SPECIES_CLOBBOPUS
+Min level: 10
+Max level: 30
+Species: SPECIES_PSYDUCK
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_SHELLDER
+Min level: 30
+Max level: 35
+Species: SPECIES_ALOMOMOLA
+Min level: 20
+Max level: 25
+Species: SPECIES_ARROKUDA
+Min level: 35
+Max level: 40
+Species: SPECIES_AZURILL
+Min level: 5
+Max level: 14
+Species: SPECIES_SOBBLE
+Map: SLATEPORT_CITY
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 20
+Max level: 25
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: MOSSDEEP_CITY
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: PACIFIDLOG_TOWN
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_SHARPEDO
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 25
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: EVER_GRANDE_CITY
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_WINGULL
+Min level: 15
+Max level: 25
+Species: SPECIES_WINGULL
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Min level: 25
+Max level: 30
+Species: SPECIES_PELIPPER
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_LUVDISC
+Min level: 10
+Max level: 30
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_LUVDISC
+Min level: 30
+Max level: 35
+Species: SPECIES_WAILMER
+Min level: 30
+Max level: 35
+Species: SPECIES_CORSOLA
+Min level: 35
+Max level: 40
+Species: SPECIES_WAILMER
+Min level: 40
+Max level: 45
+Species: SPECIES_WAILMER
+Map: PETALBURG_CITY
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_MARILL
+Min level: 10
+Max level: 20
+Species: SPECIES_MARILL
+Min level: 30
+Max level: 35
+Species: SPECIES_MARILL
+Min level: 5
+Max level: 10
+Species: SPECIES_MARILL
+Min level: 5
+Max level: 10
+Species: SPECIES_MARILL
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 10
+Max level: 30
+Species: SPECIES_CORPHISH
+Min level: 25
+Max level: 30
+Species: SPECIES_CORPHISH
+Min level: 30
+Max level: 35
+Species: SPECIES_CORPHISH
+Min level: 20
+Max level: 25
+Species: SPECIES_CORPHISH
+Min level: 35
+Max level: 40
+Species: SPECIES_CORPHISH
+Min level: 40
+Max level: 45
+Species: SPECIES_CORPHISH
+Map: UNDERWATER_ROUTE124
+Environment: water
+Min level: 20
+Max level: 30
+Species: SPECIES_SKRELP
+Min level: 20
+Max level: 30
+Species: SPECIES_CLAUNCHER
+Min level: 30
+Max level: 35
+Species: SPECIES_MAREANIE
+Min level: 30
+Max level: 35
+Species: SPECIES_PYUKUMUKU
+Min level: 30
+Max level: 35
+Species: SPECIES_BINACLE
+Map: SHOAL_CAVE_LOW_TIDE_ICE_ROOM
+Environment: land
+Min level: 26
+Max level: 26
+Species: SPECIES_SNEASEL
+Min level: 26
+Max level: 26
+Species: SPECIES_SWINUB
+Min level: 28
+Max level: 28
+Species: SPECIES_SNORUNT
+Min level: 28
+Max level: 28
+Species: SPECIES_SNOVER
+Min level: 30
+Max level: 30
+Species: SPECIES_VANILLITE
+Min level: 30
+Max level: 30
+Species: SPECIES_CUBCHOO
+Min level: 26
+Max level: 26
+Species: SPECIES_CRYOGONAL
+Min level: 30
+Max level: 32
+Species: SPECIES_BERGMITE
+Min level: 30
+Max level: 30
+Species: SPECIES_EISCUE
+Min level: 28
+Max level: 28
+Species: SPECIES_SANDSLASH_ALOLAN
+Min level: 32
+Max level: 32
+Species: SPECIES_MR_MIME_GALARIAN
+Min level: 30
+Max level: 30
+Species: SPECIES_GLACEON
+Environment: hidden
+Min level: 25
+Max level: 26
+Species: SPECIES_SNEASEL_HISUIAN
+Min level: 26
+Max level: 26
+Species: SPECIES_ARCTOZOLT
+Min level: 26
+Max level: 26
+Species: SPECIES_ARCTOVISH
+Map: SKY_PILLAR_1F
+Environment: land
+Min level: 33
+Max level: 33
+Species: SPECIES_SABLEYE
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_SABLEYE
+Min level: 36
+Max level: 36
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_BANETTE
+Min level: 38
+Max level: 38
+Species: SPECIES_BANETTE
+Min level: 36
+Max level: 36
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_CLAYDOL
+Min level: 38
+Max level: 38
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_CLAYDOL
+Min level: 38
+Max level: 38
+Species: SPECIES_CLAYDOL
+Map: SOOTOPOLIS_CITY
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 15
+Max level: 25
+Species: SPECIES_MAGIKARP
+Min level: 25
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 25
+Max level: 30
+Species: SPECIES_MAGIKARP
+Environment: fishing
+Min level: 5
+Max level: 10
+Species: SPECIES_MAGIKARP
+Min level: 5
+Max level: 10
+Species: SPECIES_TENTACOOL
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 10
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 30
+Max level: 35
+Species: SPECIES_MAGIKARP
+Min level: 30
+Max level: 35
+Species: SPECIES_MAGIKARP
+Min level: 35
+Max level: 40
+Species: SPECIES_GYARADOS
+Min level: 35
+Max level: 45
+Species: SPECIES_GYARADOS
+Min level: 5
+Max level: 45
+Species: SPECIES_GYARADOS
+Map: SKY_PILLAR_3F
+Environment: land
+Min level: 33
+Max level: 33
+Species: SPECIES_SABLEYE
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_SABLEYE
+Min level: 36
+Max level: 36
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_BANETTE
+Min level: 38
+Max level: 38
+Species: SPECIES_BANETTE
+Min level: 36
+Max level: 36
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_CLAYDOL
+Min level: 38
+Max level: 38
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_CLAYDOL
+Min level: 38
+Max level: 38
+Species: SPECIES_CLAYDOL
+Map: SKY_PILLAR_5F
+Environment: land
+Min level: 33
+Max level: 33
+Species: SPECIES_SABLEYE
+Min level: 34
+Max level: 34
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 34
+Max level: 34
+Species: SPECIES_SABLEYE
+Min level: 36
+Max level: 36
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_BANETTE
+Min level: 38
+Max level: 38
+Species: SPECIES_BANETTE
+Min level: 36
+Max level: 36
+Species: SPECIES_CLAYDOL
+Min level: 37
+Max level: 37
+Species: SPECIES_CLAYDOL
+Min level: 38
+Max level: 38
+Species: SPECIES_ALTARIA
+Min level: 39
+Max level: 39
+Species: SPECIES_ALTARIA
+Min level: 39
+Max level: 39
+Species: SPECIES_ALTARIA
+Map: SAFARI_ZONE_SOUTHEAST
+Environment: land
+Min level: 10
+Max level: 10
+Species: SPECIES_BULBASAUR
+Min level: 10
+Max level: 10
+Species: SPECIES_CHARMANDER
+Min level: 10
+Max level: 10
+Species: SPECIES_SQUIRTLE
+Min level: 10
+Max level: 10
+Species: SPECIES_CHIKORITA
+Min level: 10
+Max level: 10
+Species: SPECIES_CYNDAQUIL
+Min level: 10
+Max level: 10
+Species: SPECIES_TOTODILE
+Min level: 10
+Max level: 10
+Species: SPECIES_TREECKO
+Min level: 10
+Max level: 10
+Species: SPECIES_TORCHIC
+Min level: 10
+Max level: 10
+Species: SPECIES_MUDKIP
+Min level: 10
+Max level: 10
+Species: SPECIES_TURTWIG
+Min level: 10
+Max level: 10
+Species: SPECIES_CHIMCHAR
+Min level: 10
+Max level: 10
+Species: SPECIES_PIPLUP
+Environment: water
+Min level: 25
+Max level: 30
+Species: SPECIES_WOOPER
+Min level: 25
+Max level: 30
+Species: SPECIES_MARILL
+Min level: 25
+Max level: 30
+Species: SPECIES_MARILL
+Min level: 30
+Max level: 35
+Species: SPECIES_MARILL
+Min level: 35
+Max level: 40
+Species: SPECIES_QUAGSIRE
+Environment: fishing
+Min level: 25
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 25
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 25
+Max level: 30
+Species: SPECIES_MAGIKARP
+Min level: 25
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 30
+Max level: 35
+Species: SPECIES_REMORAID
+Min level: 25
+Max level: 30
+Species: SPECIES_GOLDEEN
+Min level: 25
+Max level: 30
+Species: SPECIES_REMORAID
+Min level: 30
+Max level: 35
+Species: SPECIES_REMORAID
+Min level: 30
+Max level: 35
+Species: SPECIES_REMORAID
+Min level: 35
+Max level: 40
+Species: SPECIES_OCTILLERY
+Map: SAFARI_ZONE_NORTHEAST
+Environment: land
+Min level: 10
+Max level: 10
+Species: SPECIES_SNIVY
+Min level: 10
+Max level: 10
+Species: SPECIES_TEPIG
+Min level: 10
+Max level: 10
+Species: SPECIES_OSHAWOTT
+Min level: 10
+Max level: 10
+Species: SPECIES_CHESPIN
+Min level: 10
+Max level: 10
+Species: SPECIES_FENNEKIN
+Min level: 10
+Max level: 10
+Species: SPECIES_FROAKIE
+Min level: 10
+Max level: 10
+Species: SPECIES_ROWLET
+Min level: 10
+Max level: 10
+Species: SPECIES_LITTEN
+Min level: 10
+Max level: 10
+Species: SPECIES_POPPLIO
+Min level: 10
+Max level: 10
+Species: SPECIES_GROOKEY
+Min level: 10
+Max level: 10
+Species: SPECIES_SCORBUNNY
+Min level: 10
+Max level: 10
+Species: SPECIES_SOBBLE
+Environment: rock_smash
+Min level: 25
+Max level: 30
+Species: SPECIES_SHUCKLE
+Min level: 20
+Max level: 25
+Species: SPECIES_SHUCKLE
+Min level: 30
+Max level: 35
+Species: SPECIES_SHUCKLE
+Min level: 30
+Max level: 35
+Species: SPECIES_SHUCKLE
+Min level: 35
+Max level: 40
+Species: SPECIES_SHUCKLE
+Map: MAGMA_HIDEOUT_1F
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MAGMA_HIDEOUT_2F_1R
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MAGMA_HIDEOUT_2F_2R
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MAGMA_HIDEOUT_3F_1R
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MAGMA_HIDEOUT_3F_2R
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MAGMA_HIDEOUT_4F
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MAGMA_HIDEOUT_3F_3R
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MAGMA_HIDEOUT_2F_3R
+Environment: land
+Min level: 25
+Max level: 28
+Species: SPECIES_GROWLITHE
+Min level: 25
+Max level: 28
+Species: SPECIES_HOUNDOUR
+Min level: 25
+Max level: 28
+Species: SPECIES_PONYTA
+Min level: 20
+Max level: 20
+Species: SPECIES_LITLEO
+Min level: 28
+Max level: 29
+Species: SPECIES_SLUGMA
+Min level: 26
+Max level: 29
+Species: SPECIES_HEATMOR
+Min level: 26
+Max level: 29
+Species: SPECIES_FLETCHINDER
+Min level: 27
+Max level: 30
+Species: SPECIES_LITLEO
+Min level: 25
+Max level: 32
+Species: SPECIES_NUMEL
+Min level: 27
+Max level: 32
+Species: SPECIES_SPOINK
+Min level: 28
+Max level: 33
+Species: SPECIES_QUILAVA
+Min level: 27
+Max level: 35
+Species: SPECIES_TORRACAT
+Map: MIRAGE_TOWER_1F
+Environment: land
+Min level: 21
+Max level: 21
+Species: SPECIES_SANDILE
+Min level: 21
+Max level: 21
+Species: SPECIES_SILICOBRA
+Min level: 20
+Max level: 20
+Species: SPECIES_SANDSHREW
+Min level: 20
+Max level: 20
+Species: SPECIES_TRAPINCH
+Min level: 20
+Max level: 20
+Species: SPECIES_DIGLETT_ALOLAN
+Min level: 20
+Max level: 20
+Species: SPECIES_RHYHORN
+Min level: 22
+Max level: 22
+Species: SPECIES_SANDSHREW
+Min level: 22
+Max level: 22
+Species: SPECIES_CUBONE
+Min level: 23
+Max level: 23
+Species: SPECIES_HIPPOPOTAS
+Min level: 23
+Max level: 23
+Species: SPECIES_LARVITAR
+Min level: 24
+Max level: 24
+Species: SPECIES_ONIX
+Min level: 24
+Max level: 24
+Species: SPECIES_GLIGAR
+Map: MIRAGE_TOWER_2F
+Environment: land
+Min level: 21
+Max level: 21
+Species: SPECIES_SANDILE
+Min level: 21
+Max level: 21
+Species: SPECIES_SILICOBRA
+Min level: 20
+Max level: 20
+Species: SPECIES_SANDSHREW
+Min level: 20
+Max level: 20
+Species: SPECIES_TRAPINCH
+Min level: 20
+Max level: 20
+Species: SPECIES_DIGLETT_ALOLAN
+Min level: 20
+Max level: 20
+Species: SPECIES_RHYHORN
+Min level: 22
+Max level: 22
+Species: SPECIES_SANDSHREW
+Min level: 22
+Max level: 22
+Species: SPECIES_CUBONE
+Min level: 23
+Max level: 23
+Species: SPECIES_HIPPOPOTAS
+Min level: 23
+Max level: 23
+Species: SPECIES_LARVITAR
+Min level: 24
+Max level: 24
+Species: SPECIES_ONIX
+Min level: 24
+Max level: 24
+Species: SPECIES_GLIGAR
+Map: MIRAGE_TOWER_3F
+Environment: land
+Min level: 21
+Max level: 21
+Species: SPECIES_SANDILE
+Min level: 21
+Max level: 21
+Species: SPECIES_SILICOBRA
+Min level: 20
+Max level: 20
+Species: SPECIES_SANDSHREW
+Min level: 20
+Max level: 20
+Species: SPECIES_TRAPINCH
+Min level: 20
+Max level: 20
+Species: SPECIES_DIGLETT_ALOLAN
+Min level: 20
+Max level: 20
+Species: SPECIES_RHYHORN
+Min level: 22
+Max level: 22
+Species: SPECIES_SANDSHREW
+Min level: 22
+Max level: 22
+Species: SPECIES_CUBONE
+Min level: 23
+Max level: 23
+Species: SPECIES_HIPPOPOTAS
+Min level: 23
+Max level: 23
+Species: SPECIES_LARVITAR
+Min level: 24
+Max level: 24
+Species: SPECIES_ONIX
+Min level: 24
+Max level: 24
+Species: SPECIES_GLIGAR
+Map: MIRAGE_TOWER_4F
+Environment: land
+Min level: 21
+Max level: 21
+Species: SPECIES_SANDILE
+Min level: 21
+Max level: 21
+Species: SPECIES_SILICOBRA
+Min level: 20
+Max level: 20
+Species: SPECIES_SANDSHREW
+Min level: 20
+Max level: 20
+Species: SPECIES_TRAPINCH
+Min level: 20
+Max level: 20
+Species: SPECIES_DIGLETT_ALOLAN
+Min level: 20
+Max level: 20
+Species: SPECIES_RHYHORN
+Min level: 22
+Max level: 22
+Species: SPECIES_SANDSHREW
+Min level: 22
+Max level: 22
+Species: SPECIES_CUBONE
+Min level: 23
+Max level: 23
+Species: SPECIES_HIPPOPOTAS
+Min level: 23
+Max level: 23
+Species: SPECIES_LARVITAR
+Min level: 24
+Max level: 24
+Species: SPECIES_ONIX
+Min level: 24
+Max level: 24
+Species: SPECIES_GLIGAR
+Map: DESERT_UNDERPASS
+Environment: land
+Min level: 38
+Max level: 38
+Species: SPECIES_DITTO
+Min level: 35
+Max level: 35
+Species: SPECIES_MR_MIME
+Min level: 40
+Max level: 40
+Species: SPECIES_MAWILE
+Min level: 40
+Max level: 40
+Species: SPECIES_TOGETIC
+Min level: 41
+Max level: 41
+Species: SPECIES_MORGREM
+Min level: 36
+Max level: 36
+Species: SPECIES_ALCREMIE
+Min level: 38
+Max level: 38
+Species: SPECIES_JYNX
+Min level: 42
+Max level: 42
+Species: SPECIES_HATTERENE
+Min level: 38
+Max level: 38
+Species: SPECIES_GRANBULL
+Min level: 43
+Max level: 43
+Species: SPECIES_RAPIDASH_GALARIAN
+Min level: 44
+Max level: 44
+Species: SPECIES_WEEZING_GALARIAN
+Min level: 45
+Max level: 45
+Species: SPECIES_NINETALES_ALOLAN
+Map: ARTISAN_CAVE_B1F
+Environment: land
+Min level: 40
+Max level: 40
+Species: SPECIES_SMEARGLE
+Min level: 41
+Max level: 41
+Species: SPECIES_SMEARGLE
+Min level: 42
+Max level: 42
+Species: SPECIES_SMEARGLE
+Min level: 43
+Max level: 43
+Species: SPECIES_SMEARGLE
+Min level: 44
+Max level: 44
+Species: SPECIES_SMEARGLE
+Min level: 45
+Max level: 45
+Species: SPECIES_SMEARGLE
+Min level: 46
+Max level: 46
+Species: SPECIES_SMEARGLE
+Min level: 47
+Max level: 47
+Species: SPECIES_SMEARGLE
+Min level: 48
+Max level: 48
+Species: SPECIES_SMEARGLE
+Min level: 49
+Max level: 49
+Species: SPECIES_SMEARGLE
+Min level: 50
+Max level: 50
+Species: SPECIES_SMEARGLE
+Min level: 50
+Max level: 50
+Species: SPECIES_SMEARGLE
+Map: ARTISAN_CAVE_1F
+Environment: land
+Min level: 40
+Max level: 40
+Species: SPECIES_SMEARGLE
+Min level: 41
+Max level: 41
+Species: SPECIES_SMEARGLE
+Min level: 42
+Max level: 42
+Species: SPECIES_SMEARGLE
+Min level: 43
+Max level: 43
+Species: SPECIES_SMEARGLE
+Min level: 44
+Max level: 44
+Species: SPECIES_SMEARGLE
+Min level: 45
+Max level: 45
+Species: SPECIES_SMEARGLE
+Min level: 46
+Max level: 46
+Species: SPECIES_SMEARGLE
+Min level: 47
+Max level: 47
+Species: SPECIES_SMEARGLE
+Min level: 48
+Max level: 48
+Species: SPECIES_SMEARGLE
+Min level: 49
+Max level: 49
+Species: SPECIES_SMEARGLE
+Min level: 50
+Max level: 50
+Species: SPECIES_SMEARGLE
+Min level: 50
+Max level: 50
+Species: SPECIES_SMEARGLE
+Map: ALTERING_CAVE
+Environment: land
+Min level: 10
+Max level: 10
+Species: SPECIES_ZUBAT
+Min level: 12
+Max level: 12
+Species: SPECIES_ZUBAT
+Min level: 8
+Max level: 8
+Species: SPECIES_ZUBAT
+Min level: 14
+Max level: 14
+Species: SPECIES_ZUBAT
+Min level: 10
+Max level: 10
+Species: SPECIES_ZUBAT
+Min level: 12
+Max level: 12
+Species: SPECIES_ZUBAT
+Min level: 16
+Max level: 16
+Species: SPECIES_ZUBAT
+Min level: 6
+Max level: 6
+Species: SPECIES_ZUBAT
+Min level: 8
+Max level: 8
+Species: SPECIES_ZUBAT
+Min level: 14
+Max level: 14
+Species: SPECIES_ZUBAT
+Min level: 8
+Max level: 8
+Species: SPECIES_ZUBAT
+Min level: 14
+Max level: 14
+Species: SPECIES_ZUBAT
+Map: ALTERING_CAVE
+Environment: land
+Min level: 7
+Max level: 7
+Species: SPECIES_MAREEP
+Min level: 9
+Max level: 9
+Species: SPECIES_MAREEP
+Min level: 5
+Max level: 5
+Species: SPECIES_MAREEP
+Min level: 11
+Max level: 11
+Species: SPECIES_MAREEP
+Min level: 7
+Max level: 7
+Species: SPECIES_MAREEP
+Min level: 9
+Max level: 9
+Species: SPECIES_MAREEP
+Min level: 13
+Max level: 13
+Species: SPECIES_MAREEP
+Min level: 3
+Max level: 3
+Species: SPECIES_MAREEP
+Min level: 5
+Max level: 5
+Species: SPECIES_MAREEP
+Min level: 11
+Max level: 11
+Species: SPECIES_MAREEP
+Min level: 5
+Max level: 5
+Species: SPECIES_MAREEP
+Min level: 11
+Max level: 11
+Species: SPECIES_MAREEP
+Map: ALTERING_CAVE
+Environment: land
+Min level: 23
+Max level: 23
+Species: SPECIES_PINECO
+Min level: 25
+Max level: 25
+Species: SPECIES_PINECO
+Min level: 22
+Max level: 22
+Species: SPECIES_PINECO
+Min level: 27
+Max level: 27
+Species: SPECIES_PINECO
+Min level: 23
+Max level: 23
+Species: SPECIES_PINECO
+Min level: 25
+Max level: 25
+Species: SPECIES_PINECO
+Min level: 29
+Max level: 29
+Species: SPECIES_PINECO
+Min level: 19
+Max level: 19
+Species: SPECIES_PINECO
+Min level: 21
+Max level: 21
+Species: SPECIES_PINECO
+Min level: 27
+Max level: 27
+Species: SPECIES_PINECO
+Min level: 21
+Max level: 21
+Species: SPECIES_PINECO
+Min level: 27
+Max level: 27
+Species: SPECIES_PINECO
+Map: ALTERING_CAVE
+Environment: land
+Min level: 16
+Max level: 16
+Species: SPECIES_HOUNDOUR
+Min level: 18
+Max level: 18
+Species: SPECIES_HOUNDOUR
+Min level: 14
+Max level: 14
+Species: SPECIES_HOUNDOUR
+Min level: 20
+Max level: 20
+Species: SPECIES_HOUNDOUR
+Min level: 16
+Max level: 16
+Species: SPECIES_HOUNDOUR
+Min level: 18
+Max level: 18
+Species: SPECIES_HOUNDOUR
+Min level: 22
+Max level: 22
+Species: SPECIES_HOUNDOUR
+Min level: 12
+Max level: 12
+Species: SPECIES_HOUNDOUR
+Min level: 14
+Max level: 14
+Species: SPECIES_HOUNDOUR
+Min level: 20
+Max level: 20
+Species: SPECIES_HOUNDOUR
+Min level: 14
+Max level: 14
+Species: SPECIES_HOUNDOUR
+Min level: 20
+Max level: 20
+Species: SPECIES_HOUNDOUR
+Map: ALTERING_CAVE
+Environment: land
+Min level: 10
+Max level: 10
+Species: SPECIES_TEDDIURSA
+Min level: 12
+Max level: 12
+Species: SPECIES_TEDDIURSA
+Min level: 8
+Max level: 8
+Species: SPECIES_TEDDIURSA
+Min level: 14
+Max level: 14
+Species: SPECIES_TEDDIURSA
+Min level: 10
+Max level: 10
+Species: SPECIES_TEDDIURSA
+Min level: 12
+Max level: 12
+Species: SPECIES_TEDDIURSA
+Min level: 16
+Max level: 16
+Species: SPECIES_TEDDIURSA
+Min level: 6
+Max level: 6
+Species: SPECIES_TEDDIURSA
+Min level: 8
+Max level: 8
+Species: SPECIES_TEDDIURSA
+Min level: 14
+Max level: 14
+Species: SPECIES_TEDDIURSA
+Min level: 8
+Max level: 8
+Species: SPECIES_TEDDIURSA
+Min level: 14
+Max level: 14
+Species: SPECIES_TEDDIURSA
+Map: ALTERING_CAVE
+Environment: land
+Min level: 22
+Max level: 22
+Species: SPECIES_AIPOM
+Min level: 24
+Max level: 24
+Species: SPECIES_AIPOM
+Min level: 20
+Max level: 20
+Species: SPECIES_AIPOM
+Min level: 26
+Max level: 26
+Species: SPECIES_AIPOM
+Min level: 22
+Max level: 22
+Species: SPECIES_AIPOM
+Min level: 24
+Max level: 24
+Species: SPECIES_AIPOM
+Min level: 28
+Max level: 28
+Species: SPECIES_AIPOM
+Min level: 18
+Max level: 18
+Species: SPECIES_AIPOM
+Min level: 20
+Max level: 20
+Species: SPECIES_AIPOM
+Min level: 26
+Max level: 26
+Species: SPECIES_AIPOM
+Min level: 20
+Max level: 20
+Species: SPECIES_AIPOM
+Min level: 26
+Max level: 26
+Species: SPECIES_AIPOM
+Map: ALTERING_CAVE
+Environment: land
+Min level: 22
+Max level: 22
+Species: SPECIES_SHUCKLE
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUCKLE
+Min level: 20
+Max level: 20
+Species: SPECIES_SHUCKLE
+Min level: 26
+Max level: 26
+Species: SPECIES_SHUCKLE
+Min level: 22
+Max level: 22
+Species: SPECIES_SHUCKLE
+Min level: 24
+Max level: 24
+Species: SPECIES_SHUCKLE
+Min level: 28
+Max level: 28
+Species: SPECIES_SHUCKLE
+Min level: 18
+Max level: 18
+Species: SPECIES_SHUCKLE
+Min level: 20
+Max level: 20
+Species: SPECIES_SHUCKLE
+Min level: 26
+Max level: 26
+Species: SPECIES_SHUCKLE
+Min level: 20
+Max level: 20
+Species: SPECIES_SHUCKLE
+Min level: 26
+Max level: 26
+Species: SPECIES_SHUCKLE
+Map: ALTERING_CAVE
+Environment: land
+Min level: 22
+Max level: 22
+Species: SPECIES_STANTLER
+Min level: 24
+Max level: 24
+Species: SPECIES_STANTLER
+Min level: 20
+Max level: 20
+Species: SPECIES_STANTLER
+Min level: 26
+Max level: 26
+Species: SPECIES_STANTLER
+Min level: 22
+Max level: 22
+Species: SPECIES_STANTLER
+Min level: 24
+Max level: 24
+Species: SPECIES_STANTLER
+Min level: 28
+Max level: 28
+Species: SPECIES_STANTLER
+Min level: 18
+Max level: 18
+Species: SPECIES_STANTLER
+Min level: 20
+Max level: 20
+Species: SPECIES_STANTLER
+Min level: 26
+Max level: 26
+Species: SPECIES_STANTLER
+Min level: 20
+Max level: 20
+Species: SPECIES_STANTLER
+Min level: 26
+Max level: 26
+Species: SPECIES_STANTLER
+Map: ALTERING_CAVE
+Environment: land
+Min level: 22
+Max level: 22
+Species: SPECIES_SMEARGLE
+Min level: 24
+Max level: 24
+Species: SPECIES_SMEARGLE
+Min level: 20
+Max level: 20
+Species: SPECIES_SMEARGLE
+Min level: 26
+Max level: 26
+Species: SPECIES_SMEARGLE
+Min level: 22
+Max level: 22
+Species: SPECIES_SMEARGLE
+Min level: 24
+Max level: 24
+Species: SPECIES_SMEARGLE
+Min level: 28
+Max level: 28
+Species: SPECIES_SMEARGLE
+Min level: 18
+Max level: 18
+Species: SPECIES_SMEARGLE
+Min level: 20
+Max level: 20
+Species: SPECIES_SMEARGLE
+Min level: 26
+Max level: 26
+Species: SPECIES_SMEARGLE
+Min level: 20
+Max level: 20
+Species: SPECIES_SMEARGLE
+Min level: 26
+Max level: 26
+Species: SPECIES_SMEARGLE
+Map: METEOR_FALLS_STEVENS_CAVE
+Environment: land
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 33
+Max level: 33
+Species: SPECIES_NOIBAT
+Min level: 35
+Max level: 35
+Species: SPECIES_SOLROCK
+Min level: 33
+Max level: 33
+Species: SPECIES_SOLROCK
+Min level: 37
+Max level: 37
+Species: SPECIES_SOLROCK
+Min level: 35
+Max level: 35
+Species: SPECIES_NOIBAT
+Min level: 39
+Max level: 39
+Species: SPECIES_SOLROCK
+Min level: 38
+Max level: 38
+Species: SPECIES_NOIBAT
+Min level: 40
+Max level: 40
+Species: SPECIES_NOIBAT
+Min level: 38
+Max level: 38
+Species: SPECIES_NOIBAT
+Min level: 40
+Max level: 40
+Species: SPECIES_NOIBAT
+Map: TERRAKIONS_CAVE
+Environment: land
+Min level: 38
+Max level: 38
+Species: SPECIES_MEDICHAM
+Min level: 35
+Max level: 35
+Species: SPECIES_BEWEAR
+Min level: 40
+Max level: 40
+Species: SPECIES_GURDURR
+Min level: 40
+Max level: 40
+Species: SPECIES_THROH
+Min level: 41
+Max level: 41
+Species: SPECIES_SAWK
+Min level: 36
+Max level: 36
+Species: SPECIES_SCRAGGY
+Min level: 38
+Max level: 38
+Species: SPECIES_MIENFOO
+Min level: 42
+Max level: 42
+Species: SPECIES_PURUGLY
+Min level: 38
+Max level: 38
+Species: SPECIES_RIOLU
+Min level: 43
+Max level: 43
+Species: SPECIES_PIGNITE
+Min level: 44
+Max level: 44
+Species: SPECIES_TOXICROAK
+Min level: 45
+Max level: 45
+Species: SPECIES_HITMONCHAN
+Map: TERRAKIONS_CAVE_F1_1
+Environment: land
+Min level: 38
+Max level: 38
+Species: SPECIES_MEDICHAM
+Min level: 35
+Max level: 35
+Species: SPECIES_BEWEAR
+Min level: 40
+Max level: 40
+Species: SPECIES_GURDURR
+Min level: 40
+Max level: 40
+Species: SPECIES_THROH
+Min level: 41
+Max level: 41
+Species: SPECIES_SAWK
+Min level: 36
+Max level: 36
+Species: SPECIES_SCRAGGY
+Min level: 38
+Max level: 38
+Species: SPECIES_MIENFOO
+Min level: 42
+Max level: 42
+Species: SPECIES_PURUGLY
+Min level: 38
+Max level: 38
+Species: SPECIES_RIOLU
+Min level: 43
+Max level: 43
+Species: SPECIES_PIGNITE
+Min level: 44
+Max level: 44
+Species: SPECIES_TOXICROAK
+Min level: 45
+Max level: 45
+Species: SPECIES_HITMONLEE
+Map: TERRAKIONS_CAVE_F2
+Environment: land
+Min level: 38
+Max level: 38
+Species: SPECIES_MEDICHAM
+Min level: 35
+Max level: 35
+Species: SPECIES_BEWEAR
+Min level: 40
+Max level: 40
+Species: SPECIES_GURDURR
+Min level: 40
+Max level: 40
+Species: SPECIES_THROH
+Min level: 41
+Max level: 41
+Species: SPECIES_SAWK
+Min level: 36
+Max level: 36
+Species: SPECIES_SCRAGGY
+Min level: 38
+Max level: 38
+Species: SPECIES_MIENFOO
+Min level: 42
+Max level: 42
+Species: SPECIES_PURUGLY
+Min level: 38
+Max level: 38
+Species: SPECIES_RIOLU
+Min level: 43
+Max level: 43
+Species: SPECIES_PIGNITE
+Min level: 44
+Max level: 44
+Species: SPECIES_TOXICROAK
+Min level: 45
+Max level: 45
+Species: SPECIES_PRIMEAPE
+Environment: water
+Min level: 5
+Max level: 35
+Species: SPECIES_SLOWPOKE
+Min level: 28
+Max level: 35
+Species: SPECIES_KINGLER
+Min level: 34
+Max level: 45
+Species: SPECIES_STARYU
+Min level: 25
+Max level: 35
+Species: SPECIES_OMANYTE
+Min level: 25
+Max level: 35
+Species: SPECIES_KABUTO
