@@ -1,0 +1,15 @@
+commands/ability.js 2385ms
+commands/ban.js 1359ms
+commands/clear.js 545ms
+commands/data.js 1043ms
+commands/evo.js 9909ms
+commands/faq.js 704ms
+commands/help.js 615ms
+commands/kick.js 169ms
+commands/learnsets.json 47380ms
+commands/loc.js 571ms
+commands/moves.js 13048ms
+commands/patch.js 717ms
+commands/rules.js 1042ms
+commands/seek.js 643ms
+commands/shiny.js 283ms

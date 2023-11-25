@@ -1,0 +1,39 @@
+const Discord = require('discord.js');
+const { speciesInfo } = require('./info.h');
+
+module.exports = {
+  name: 'info',
+  description: 'Get information about a specific Pokémon.',
+  execute(message, args) {
+    // Extract the Pokémon name from the command arguments
+    const pokemonName = args.join(' ').toLowerCase();
+
+    // Find the Pokémon in the speciesInfo array
+    const pokemon = speciesInfo.find(species => species.name.toLowerCase() === pokemonName);
+
+    if (!pokemon) {
+      return message.channel.send('Pokémon not found!');
+    }
+
+    // Create an embed to display the Pokémon information
+    const embed = new Discord.MessageEmbed()
+      .setTitle(`#${pokemon.dexNumber}: ${pokemon.name}`)
+      .setColor('#0099ff')
+      .addField('Base HP', pokemon.baseHP)
+      .addField('Base Attack', pokemon.baseAttack)
+      .addField('Base Defense', pokemon.baseDefense)
+      .addField('Base Speed', pokemon.baseSpeed)
+      .addField('Base Special Attack', pokemon.baseSpAttack)
+      .addField('Base Special Defense', pokemon.baseSpDefense)
+      .addField('Types', pokemon.types.join(', '))
+      .addField('Catch Rate', pokemon.catchRate)
+      .addField('Experience Yield', pokemon.expYield)
+      .addField('Gender Ratio', `${pokemon.genderRatio}% Female`)
+      .addField('Egg Cycles', pokemon.eggCycles)
+      .addField('Abilities', pokemon.abilities.join(', '))
+      .addField('Body Color', pokemon.bodyColor)
+      .addField('Can Flip', pokemon.noFlip ? 'No' : 'Yes');
+
+    message.channel.send(embed);
+  },
+};

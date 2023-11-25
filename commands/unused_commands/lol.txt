@@ -1,0 +1,55 @@
+const Discord = require('discord.js');
+const faq = require('./faq.json');
+
+module.exports = {
+  name: 'lol',
+  description: 'Searches the FAQ for answers to common questions.',
+  usage: '<query>',
+  execute(message, args) {
+    if (!args.length) {
+      return message.channel.send('Please provide a search query.');
+    }
+
+    const query = args.join(' ').toLowerCase();
+    const keywords = query.split(' ');
+    const results = faq.filter(item => {
+      return keywords.some(keyword => item.question.toLowerCase().includes(keyword));
+    });
+
+    if (!results.length) {
+      return message.channel.send(`No results found for "${query}".`);
+    }
+
+    // Format search results as a numbered list
+    const resultStrings = results.map((item, index) => `${index + 1}. ${item.question}`);
+    const resultsList = resultStrings.join('\n');
+
+    // Send search results to the user with instructions on selecting a result
+    const searchResultsEmbed = new Discord.MessageEmbed()
+      .setTitle(`Search Results for "${query}"`)
+      .setDescription(resultsList)
+      .addField('\u200b', `Please select a result by entering the corresponding number.\nExample: \`1\``);
+    message.channel.send(searchResultsEmbed);
+
+    // Collect the user's selection and display the corresponding answer
+    const filter = m => m.author.id === message.author.id && m.content >= 1 && m.content <= results.length;
+    const collector = message.channel.createMessageCollector(filter, { time: 15000, max: 1 });
+
+    collector.on('collect', m => {
+      const selection = parseInt(m.content) - 1;
+      const answer = results[selection].answer;
+      const selectedResultEmbed = new Discord.MessageEmbed()
+        .setTitle(`${results[selection].question}`)
+        .setDescription(answer)
+        .setColor('green');
+      message.channel.send(selectedResultEmbed);
+    });
+
+    // If the user does not make a selection within the allotted time, inform them that the search has expired
+    collector.on('end', collected => {
+      if (collected.size === 0) {
+        message.channel.send('No selection made. Search expired.');
+      }
+    });
+  },
+};

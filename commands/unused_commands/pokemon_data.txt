@@ -1,0 +1,3204 @@
+Encounter Group: gWildMonHeaders
+
+  Encounter Type: land_mons
+  Encounter Rates:
+    20
+    20
+    10
+    10
+    10
+    10
+    5
+    5
+    4
+    4
+    1
+    1
+
+  Encounter Type: water_mons
+  Encounter Rates:
+    60
+    30
+    5
+    4
+    1
+
+  Encounter Type: rock_smash_mons
+  Encounter Rates:
+    60
+    30
+    5
+    4
+    1
+
+  Encounter Type: fishing_mons
+  Encounter Rates:
+    70
+    30
+    60
+    20
+    20
+    40
+    40
+    15
+    4
+    1
+  Fishing Groups:
+    old_rod: [0, 1]
+    good_rod: [2, 3, 4]
+    super_rod: [5, 6, 7, 8, 9]
+
+  Encounter Type: hidden_mons
+  Encounter Rates:
+    1
+    1
+    1
+
+  Encounter Map: MAP_ROUTE101
+  Encounter Base Label: gRoute101
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_SKIDDO (Level 2-2)
+      SPECIES_BLIPBUG (Level 2-2)
+      SPECIES_CATERPIE (Level 2-2)
+      SPECIES_GRUBBIN (Level 3-3)
+      SPECIES_SKIDDO (Level 3-3)
+      SPECIES_NICKIT (Level 3-3)
+      SPECIES_WOOLOO (Level 3-3)
+      SPECIES_HOOTHOOT (Level 3-3)
+      SPECIES_ZIGZAGOON (Level 2-2)
+      SPECIES_ABSOL (Level 2-2)
+      SPECIES_GROOKEY (Level 3-3)
+      SPECIES_ZIGZAGOON_GALARIAN (Level 3-3)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_PICHU_SPIKY_EARED (Level 3-5)
+      SPECIES_WEEDLE (Level 3-5)
+      SPECIES_DIGLETT (Level 3-5)
+
+  Encounter Map: MAP_ROUTE102
+  Encounter Base Label: gRoute102
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_SKWOVET (Level 3-6)
+      SPECIES_ROOKIDEE (Level 4-6)
+      SPECIES_CHEWTLE (Level 4-7)
+      SPECIES_YAMPER (Level 5-7)
+      SPECIES_PURRLOIN (Level 5-6)
+      SPECIES_WOOLOO (Level 5-7)
+      SPECIES_RALTS (Level 5-7)
+      SPECIES_NICKIT (Level 3-3)
+      SPECIES_SKIDDO (Level 4-4)
+      SPECIES_ZIGZAGOON_GALARIAN (Level 4-4)
+      SPECIES_ABSOL (Level 4-4)
+      SPECIES_SUNKERN (Level 3-3)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_MAGIKARP (Level 20-30)
+      SPECIES_CORPHISH (Level 10-20)
+      SPECIES_SEAKING (Level 30-35)
+      SPECIES_ARROKUDA (Level 5-10)
+      SPECIES_GOLDEEN (Level 20-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_FEEBAS (Level 5-10)
+      SPECIES_CHEWTLE (Level 10-15)
+      SPECIES_ARROKUDA (Level 10-14)
+      SPECIES_CORPHISH (Level 10-14)
+      SPECIES_WISHIWASHI (Level 11-13)
+      SPECIES_OCTILLERY (Level 9-13)
+      SPECIES_SEAKING (Level 10-15)
+      SPECIES_MAGIKARP (Level 4-13)
+      SPECIES_QWILFISH (Level 12-18)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_TOXEL (Level 3-5)
+      SPECIES_TURTWIG (Level 3-5)
+      SPECIES_DITTO (Level 3-5)
+
+  Encounter Map: MAP_ROUTE103
+  Encounter Base Label: gRoute103
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_POOCHYENA (Level 2-5)
+      SPECIES_PANCHAM (Level 3-4)
+      SPECIES_BOUNSWEET (Level 3-3)
+      SPECIES_POLIWAG (Level 4-4)
+      SPECIES_ZORUA_HISUIAN (Level 2-2)
+      SPECIES_STUFFUL (Level 3-3)
+      SPECIES_TYROGUE (Level 3-3)
+      SPECIES_GOSSIFLEUR (Level 4-4)
+      SPECIES_APPLIN (Level 3-3)
+      SPECIES_BELLSPROUT (Level 3-3)
+      SPECIES_TOGEDEMARU (Level 2-2)
+      SPECIES_FOMANTIS (Level 4-4)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_KRABBY (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WISHIWASHI (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_GYARADOS (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_KRABBY (Level 5-10)
+      SPECIES_WISHIWASHI (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_TYMPOLE (Level 30-35)
+      SPECIES_FRILLISH (Level 25-30)
+      SPECIES_SKRELP (Level 35-40)
+      SPECIES_DEWPIDER (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_RIOLU (Level 3-5)
+      SPECIES_LEDYBA (Level 3-5)
+      SPECIES_MUDKIP (Level 3-5)
+
+  Encounter Map: MAP_ROUTE104
+  Encounter Base Label: gRoute104
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_DOTTLER (Level 4-4)
+      SPECIES_ESPURR (Level 4-4)
+      SPECIES_NUZLEAF (Level 5-5)
+      SPECIES_SWIRLIX (Level 5-5)
+      SPECIES_YAMPER (Level 4-4)
+      SPECIES_DEWPIDER (Level 5-5)
+      SPECIES_WINGULL (Level 4-4)
+      SPECIES_SHROOMISH (Level 5-5)
+      SPECIES_TREECKO (Level 4-4)
+      SPECIES_FARFETCHD_GALARIAN (Level 4-4)
+      SPECIES_FROAKIE (Level 3-3)
+      SPECIES_CYNDAQUIL (Level 5-5)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_PELIPPER (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_QWILFISH (Level 15-25)
+      SPECIES_MANTYKE (Level 25-30)
+      SPECIES_JELLICENT (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_WOOPER (Level 5-10)
+      SPECIES_CHEWTLE (Level 5-10)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_WISHIWASHI (Level 25-30)
+      SPECIES_WISHIWASHI_SCHOOL (Level 30-35)
+      SPECIES_BASCULIN (Level 20-25)
+      SPECIES_BASCULIN_BLUE_STRIPED (Level 35-40)
+      SPECIES_DHELMISE (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_DUNSPARCE (Level 3-5)
+      SPECIES_EEVEE (Level 3-5)
+      SPECIES_SCORBUNNY (Level 3-5)
+
+  Encounter Map: MAP_ROUTE105
+  Encounter Base Label: gRoute105
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_BRUXISH (Level 5-35)
+      SPECIES_BASCULIN (Level 10-30)
+      SPECIES_CRAMORANT (Level 15-25)
+      SPECIES_ARAQUANID (Level 25-30)
+      SPECIES_WISHIWASHI_SCHOOL (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_CLAUNCHER (Level 5-10)
+      SPECIES_ALOMOMOLA (Level 5-10)
+      SPECIES_FRILLISH (Level 10-30)
+      SPECIES_DUCKLETT (Level 10-30)
+      SPECIES_TIRTOUGA (Level 10-30)
+      SPECIES_PALPITOAD (Level 25-30)
+      SPECIES_PANPOUR (Level 30-35)
+      SPECIES_FINNEON (Level 20-25)
+      SPECIES_LUVDISC (Level 35-40)
+      SPECIES_BUIZEL (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 1
+    Mons:
+      SPECIES_SEEL (Level 22-30)
+      SPECIES_FEAROW (Level 32-35)
+      SPECIES_ARBOK (Level 16-32)
+
+  Encounter Map: MAP_ROUTE110
+  Encounter Base Label: gRoute110
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_POOCHYENA (Level 12-12)
+      SPECIES_MAREEP (Level 12-12)
+      SPECIES_SHINX (Level 12-12)
+      SPECIES_PIKACHU (Level 13-13)
+      SPECIES_BLITZLE (Level 13-13)
+      SPECIES_EXEGGCUTE (Level 13-13)
+      SPECIES_EMOLGA (Level 13-13)
+      SPECIES_MORPEKO (Level 13-13)
+      SPECIES_DUCKLETT (Level 12-12)
+      SPECIES_PACHIRISU (Level 12-12)
+      SPECIES_PLUSLE (Level 12-12)
+      SPECIES_MIME_JR (Level 13-13)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_DUCKLETT (Level 5-35)
+      SPECIES_ARROKUDA (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 30-31)
+      SPECIES_SWANNA (Level 35-38)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_CORPHISH (Level 10-30)
+      SPECIES_CLAUNCHER (Level 25-30)
+      SPECIES_ARAQUANID (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WOOPER (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_UNOWN (Level 8-14)
+      SPECIES_SHELMET (Level 8-14)
+      SPECIES_KARRABLAST (Level 8-14)
+
+  Encounter Map: MAP_ROUTE111
+  Encounter Base Label: gRoute111
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_HIPPOPOTAS (Level 20-20)
+      SPECIES_SANDILE (Level 20-20)
+      SPECIES_SILICOBRA (Level 21-21)
+      SPECIES_MARACTUS (Level 21-21)
+      SPECIES_MUDBRAY (Level 19-19)
+      SPECIES_BALTOY (Level 21-21)
+      SPECIES_SANDSHREW (Level 19-19)
+      SPECIES_DRILBUR (Level 19-19)
+      SPECIES_DIGLETT_ALOLAN (Level 20-20)
+      SPECIES_CACNEA (Level 20-20)
+      SPECIES_TRAPINCH (Level 22-22)
+      SPECIES_GIBLE (Level 22-22)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_WOOPER (Level 20-30)
+      SPECIES_WOOPER (Level 10-20)
+      SPECIES_WOOPER (Level 30-35)
+      SPECIES_WOOPER (Level 5-10)
+      SPECIES_WOOPER (Level 20-30)
+  rock_smash_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_GEODUDE_ALOLAN (Level 10-15)
+      SPECIES_DIGLETT (Level 5-10)
+      SPECIES_SHUCKLE (Level 15-20)
+      SPECIES_DWEBBLE (Level 15-20)
+      SPECIES_GEODUDE (Level 15-20)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 4-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_GOLDUCK (Level 25-30)
+      SPECIES_BARBOACH (Level 30-35)
+      SPECIES_SQUIRTLE (Level 20-25)
+      SPECIES_CLAMPERL (Level 35-40)
+      SPECIES_BARBOACH (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_GLIGAR (Level 19-22)
+      SPECIES_ORICORIO (Level 19-22)
+      SPECIES_VIVILLON_SUN (Level 19-23)
+
+  Encounter Map: MAP_ROUTE112
+  Encounter Base Label: gRoute112
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_DARUMAKA (Level 15-15)
+      SPECIES_HOUNDOUR (Level 15-15)
+      SPECIES_PANSEAR (Level 15-15)
+      SPECIES_DARUMAKA (Level 14-14)
+      SPECIES_FLETCHINDER (Level 14-14)
+      SPECIES_LITLEO (Level 14-14)
+      SPECIES_ORICORIO (Level 16-16)
+      SPECIES_GROWLITHE (Level 16-16)
+      SPECIES_DARUMAKA (Level 17-17)
+      SPECIES_PONYTA (Level 16-16)
+      SPECIES_NUMEL (Level 16-16)
+      SPECIES_CYNDAQUIL (Level 16-16)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_TURTONATOR (Level 15-16)
+      SPECIES_MAGMAR (Level 15-16)
+      SPECIES_ARCANINE_HISUIAN (Level 15-16)
+
+  Encounter Map: MAP_ROUTE113
+  Encounter Base Label: gRoute113
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_PONYTA (Level 15-15)
+      SPECIES_HONEDGE (Level 15-15)
+      SPECIES_SPINDA (Level 15-15)
+      SPECIES_SPINDA (Level 14-14)
+      SPECIES_DURANT (Level 14-14)
+      SPECIES_FLETCHINDER (Level 15-15)
+      SPECIES_LITLEO (Level 16-16)
+      SPECIES_BUNNELBY (Level 16-16)
+      SPECIES_CARKOL (Level 16-16)
+      SPECIES_SKARMORY (Level 16-16)
+      SPECIES_CUFANT (Level 16-16)
+      SPECIES_GRIMER (Level 16-16)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_GROWLITHE_HISUIAN (Level 10-12)
+      SPECIES_SALANDIT (Level 10-12)
+      SPECIES_SENTRET (Level 10-12)
+
+  Encounter Map: MAP_ROUTE114
+  Encounter Base Label: gRoute114
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_SWABLU (Level 16-16)
+      SPECIES_LOTAD (Level 16-16)
+      SPECIES_SWABLU (Level 17-17)
+      SPECIES_SWABLU (Level 15-15)
+      SPECIES_LOTAD (Level 15-15)
+      SPECIES_LOMBRE (Level 16-16)
+      SPECIES_COTTONEE (Level 16-16)
+      SPECIES_CRUSTLE (Level 18-18)
+      SPECIES_SEVIPER (Level 17-17)
+      SPECIES_VIVILLON_HIGH_PLAINS (Level 15-15)
+      SPECIES_AMOONGUSS (Level 17-17)
+      SPECIES_CHANSEY (Level 15-15)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_MARILL (Level 20-30)
+      SPECIES_MARILL (Level 10-20)
+      SPECIES_MARILL (Level 30-35)
+      SPECIES_MARILL (Level 5-10)
+      SPECIES_GOLDEEN (Level 20-30)
+  rock_smash_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_GEODUDE (Level 10-15)
+      SPECIES_GEODUDE (Level 5-10)
+      SPECIES_GEODUDE (Level 15-20)
+      SPECIES_GEODUDE (Level 15-20)
+      SPECIES_GEODUDE (Level 15-20)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_BARBOACH (Level 25-30)
+      SPECIES_BARBOACH (Level 30-35)
+      SPECIES_BARBOACH (Level 20-25)
+      SPECIES_BARBOACH (Level 35-40)
+      SPECIES_BARBOACH (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_HOPPIP (Level 3-5)
+      SPECIES_TANGELA (Level 3-5)
+      SPECIES_MELTAN (Level 3-5)
+
+  Encounter Map: MAP_ROUTE116
+  Encounter Base Label: gRoute116
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_SHINX (Level 6-6)
+      SPECIES_PACHIRISU (Level 6-6)
+      SPECIES_DRIFLOON (Level 6-6)
+      SPECIES_MUNCHLAX (Level 7-7)
+      SPECIES_VIVILLON_MEADOW (Level 7-7)
+      SPECIES_FLETCHLING (Level 6-6)
+      SPECIES_STARLY (Level 7-7)
+      SPECIES_RIOLU (Level 8-8)
+      SPECIES_CHATOT (Level 7-7)
+      SPECIES_ROWLET (Level 8-8)
+      SPECIES_TREECKO (Level 7-7)
+      SPECIES_ABSOL (Level 8-8)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_FURFROU_HEART_TRIM (Level 25-26)
+      SPECIES_FURFROU_KABUKI_TRIM (Level 26-26)
+      SPECIES_FURFROU_LA_REINE_TRIM (Level 26-26)
+
+  Encounter Map: MAP_ROUTE117
+  Encounter Base Label: gRoute117
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_POOCHYENA (Level 13-13)
+      SPECIES_ODDISH (Level 13-13)
+      SPECIES_BUDEW (Level 14-15)
+      SPECIES_PARAS (Level 14-14)
+      SPECIES_MARILL (Level 13-13)
+      SPECIES_ABSOL (Level 13-13)
+      SPECIES_AIPOM (Level 13-13)
+      SPECIES_ILLUMISE (Level 13-13)
+      SPECIES_ILLUMISE (Level 14-14)
+      SPECIES_ILLUMISE (Level 14-14)
+      SPECIES_VOLBEAT (Level 13-13)
+      SPECIES_PICHU (Level 13-13)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_AZURILL (Level 20-30)
+      SPECIES_TOTODILE (Level 10-20)
+      SPECIES_MARILL (Level 30-35)
+      SPECIES_MARILL (Level 5-10)
+      SPECIES_GOLDEEN (Level 20-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_CORPHISH (Level 10-30)
+      SPECIES_CORPHISH (Level 25-30)
+      SPECIES_CORPHISH (Level 30-35)
+      SPECIES_CORPHISH (Level 20-25)
+      SPECIES_CORPHISH (Level 35-40)
+      SPECIES_CORPHISH (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_FURFROU_MATRON_TRIM (Level 25-26)
+      SPECIES_FURFROU_PHARAOH_TRIM (Level 26-26)
+      SPECIES_FURFROU_STAR_TRIM (Level 26-26)
+
+  Encounter Map: MAP_ROUTE118
+  Encounter Base Label: gRoute118
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_ZIGZAGOON_GALARIAN (Level 24-24)
+      SPECIES_RATICATE_ALOLAN (Level 24-24)
+      SPECIES_OBSTAGOON (Level 35-36)
+      SPECIES_MEOWTH (Level 26-26)
+      SPECIES_LINOONE_GALARIAN (Level 26-26)
+      SPECIES_MANECTRIC (Level 26-26)
+      SPECIES_PERSIAN (Level 25-25)
+      SPECIES_DEDENNE (Level 25-25)
+      SPECIES_FALINKS (Level 26-26)
+      SPECIES_DIGGERSBY (Level 26-26)
+      SPECIES_INKAY (Level 27-27)
+      SPECIES_ELECTRODE_HISUIAN (Level 25-25)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_CARVANHA (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_CARVANHA (Level 30-35)
+      SPECIES_CARVANHA (Level 20-25)
+      SPECIES_CARVANHA (Level 35-40)
+      SPECIES_CARVANHA (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_DEERLING_SUMMER (Level 25-26)
+      SPECIES_DEERLING_WINTER (Level 26-26)
+      SPECIES_SAWSBUCK_WINTER (Level 34-35)
+
+  Encounter Map: MAP_ROUTE124
+  Encounter Base Label: gRoute124
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_DUCKLETT (Level 5-35)
+      SPECIES_FRILLISH (Level 10-30)
+      SPECIES_CLAUNCHER (Level 15-25)
+      SPECIES_MAREANIE (Level 25-30)
+      SPECIES_BRUXISH (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_PETALBURG_WOODS
+  Encounter Base Label: gPetalburgWoods
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_SCATTERBUG (Level 5-8)
+      SPECIES_CUTIEFLY (Level 5-5)
+      SPECIES_DOTTLER (Level 5-5)
+      SPECIES_PHANTUMP (Level 6-6)
+      SPECIES_LARVESTA (Level 5-5)
+      SPECIES_SHUCKLE (Level 5-5)
+      SPECIES_SKORUPI (Level 6-6)
+      SPECIES_SIZZLIPEDE (Level 6-6)
+      SPECIES_SEWADDLE (Level 5-5)
+      SPECIES_SPINARAK (Level 5-5)
+      SPECIES_BURMY (Level 6-6)
+      SPECIES_SCYTHER (Level 7-9)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_CLEFFA (Level 3-5)
+      SPECIES_VENONAT (Level 3-5)
+      SPECIES_MANKEY (Level 3-5)
+
+  Encounter Map: MAP_RUSTURF_TUNNEL
+  Encounter Base Label: gRusturfTunnel
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_ROLYCOLY (Level 6-6)
+      SPECIES_IMPIDIMP (Level 7-7)
+      SPECIES_RATTATA_ALOLAN (Level 6-6)
+      SPECIES_ROCKRUFF (Level 7-7)
+      SPECIES_BONSLY (Level 7-7)
+      SPECIES_ROGGENROLA (Level 7-6)
+      SPECIES_ROGGENROLA (Level 5-5)
+      SPECIES_DIGLETT (Level 8-8)
+      SPECIES_PARAS (Level 5-5)
+      SPECIES_DRILBUR (Level 8-8)
+      SPECIES_LARVITAR (Level 5-5)
+      SPECIES_DEINO (Level 8-8)
+
+  Encounter Map: MAP_GRANITE_CAVE_1F
+  Encounter Base Label: gGraniteCave_1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 7-7)
+      SPECIES_CARKOL (Level 8-8)
+      SPECIES_CARBINK (Level 7-7)
+      SPECIES_CUBONE (Level 8-8)
+      SPECIES_KANGASKHAN (Level 9-9)
+      SPECIES_WOOBAT (Level 8-8)
+      SPECIES_CHEWTLE (Level 10-10)
+      SPECIES_PATRAT (Level 6-3)
+      SPECIES_GLIGAR (Level 7-7)
+      SPECIES_RATTATA (Level 8-8)
+      SPECIES_GEODUDE_ALOLAN (Level 6-6)
+      SPECIES_RIOLU (Level 9-9)
+
+  Encounter Map: MAP_GRANITE_CAVE_B1F
+  Encounter Base Label: gGraniteCave_B1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 9-9)
+      SPECIES_CARKOL (Level 10-10)
+      SPECIES_CARBINK (Level 9-9)
+      SPECIES_ARON (Level 11-11)
+      SPECIES_ZUBAT (Level 10-10)
+      SPECIES_WOOBAT (Level 9-9)
+      SPECIES_PATRAT (Level 10-10)
+      SPECIES_GLIGAR (Level 11-11)
+      SPECIES_RATTATA_ALOLAN (Level 10-10)
+      SPECIES_SABLEYE (Level 10-10)
+      SPECIES_ONIX (Level 9-9)
+      SPECIES_CHESPIN (Level 11-11)
+
+  Encounter Map: MAP_MT_PYRE_1F
+  Encounter Base Label: gMtPyre_1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GASTLY (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_BANETTE (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_YAMASK (Level 24-24)
+      SPECIES_LITWICK (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_SINISTEA (Level 29-29)
+      SPECIES_SHUPPET (Level 24-24)
+      SPECIES_HAUNTER (Level 29-29)
+      SPECIES_DREEPY (Level 24-24)
+
+  Encounter Map: MAP_VICTORY_ROAD_1F
+  Encounter Base Label: gVictoryRoad_1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_LUXIO (Level 40-40)
+      SPECIES_ROSERADE (Level 40-40)
+      SPECIES_RAMPARDOS (Level 40-40)
+      SPECIES_HIPPOWDON (Level 40-40)
+      SPECIES_STOUTLAND (Level 36-36)
+      SPECIES_MUDSDALE (Level 36-36)
+      SPECIES_GOLEM (Level 38-38)
+      SPECIES_GLISCOR (Level 38-38)
+      SPECIES_PILOSWINE (Level 36-36)
+      SPECIES_PUPITAR (Level 36-36)
+      SPECIES_TORTERRA (Level 36-36)
+      SPECIES_GARCHOMP (Level 48-50)
+
+  Encounter Map: MAP_SAFARI_ZONE_SOUTH
+  Encounter Base Label: gSafariZone_South
+  land_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_ODDISH (Level 25-25)
+      SPECIES_ODDISH (Level 27-27)
+      SPECIES_GIRAFARIG (Level 25-25)
+      SPECIES_GIRAFARIG (Level 27-27)
+      SPECIES_NATU (Level 25-25)
+      SPECIES_DODUO (Level 25-25)
+      SPECIES_GLOOM (Level 25-25)
+      SPECIES_WOBBUFFET (Level 27-27)
+      SPECIES_PIKACHU (Level 25-25)
+      SPECIES_WOBBUFFET (Level 27-27)
+      SPECIES_PIKACHU (Level 27-27)
+      SPECIES_WOBBUFFET (Level 29-29)
+
+  Encounter Map: MAP_UNDERWATER_ROUTE126
+  Encounter Base Label: gUnderwater_Route126
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_FRILLISH (Level 20-30)
+      SPECIES_ALOMOMOLA (Level 20-30)
+      SPECIES_TIRTOUGA (Level 30-35)
+      SPECIES_CHINCHOU (Level 30-35)
+      SPECIES_HUNTAIL (Level 30-35)
+
+  Encounter Map: MAP_ABANDONED_SHIP_ROOMS_B1F
+  Encounter Base Label: gAbandonedShip_Rooms_B1F
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACRUEL (Level 30-35)
+  fishing_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_TENTACOOL (Level 25-30)
+      SPECIES_TENTACOOL (Level 30-35)
+      SPECIES_TENTACRUEL (Level 30-35)
+      SPECIES_TENTACRUEL (Level 25-30)
+      SPECIES_TENTACRUEL (Level 20-25)
+
+  Encounter Map: MAP_GRANITE_CAVE_B2F
+  Encounter Base Label: gGraniteCave_B2F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 10-10)
+      SPECIES_CARBINK (Level 11-11)
+      SPECIES_CARKOL (Level 18-19)
+      SPECIES_ROLYCOLY (Level 11-11)
+      SPECIES_CHEWTLE (Level 12-12)
+      SPECIES_ABRA (Level 12-13)
+      SPECIES_PATRAT (Level 10-10)
+      SPECIES_KANGASKHAN (Level 11-11)
+      SPECIES_ONIX (Level 12-12)
+      SPECIES_AXEW (Level 10-10)
+      SPECIES_BELDUM (Level 12-12)
+      SPECIES_MINIOR (Level 5-10)
+  rock_smash_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_GEODUDE (Level 10-15)
+      SPECIES_NOSEPASS (Level 10-20)
+      SPECIES_GEODUDE_ALOLAN (Level 5-10)
+      SPECIES_SHUCKLE (Level 15-20)
+      SPECIES_LARVITAR (Level 15-20)
+
+  Encounter Map: MAP_FIERY_PATH
+  Encounter Base Label: gFieryPath
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_DARUMAKA (Level 15-15)
+      SPECIES_HEATMOR (Level 15-15)
+      SPECIES_LITLEO (Level 16-16)
+      SPECIES_MACHOP (Level 15-15)
+      SPECIES_TORKOAL (Level 15-15)
+      SPECIES_SLUGMA (Level 15-15)
+      SPECIES_PANSEAR (Level 16-16)
+      SPECIES_MACHOP (Level 16-16)
+      SPECIES_PIGNITE (Level 14-14)
+      SPECIES_TORKOAL (Level 16-16)
+      SPECIES_DREEPY (Level 14-14)
+      SPECIES_CHARMANDER (Level 14-14)
+
+  Encounter Map: MAP_METEOR_FALLS_B1F_2R
+  Encounter Base Label: gMeteorFalls_B1F_2R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_SWOOBAT (Level 35-35)
+      SPECIES_SWOOBAT (Level 30-30)
+      SPECIES_SOLROCK (Level 35-35)
+      SPECIES_SWOOBAT (Level 35-35)
+      SPECIES_SOLROCK (Level 37-37)
+      SPECIES_SWOOBAT (Level 25-25)
+      SPECIES_SOLROCK (Level 39-39)
+      SPECIES_NOIBAT (Level 38-38)
+      SPECIES_NOIBAT (Level 40-40)
+      SPECIES_NOIBAT (Level 38-38)
+      SPECIES_NOIBAT (Level 40-40)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_SOLROCK (Level 25-35)
+      SPECIES_SOLROCK (Level 15-25)
+      SPECIES_SOLROCK (Level 5-15)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_BARBOACH (Level 25-30)
+      SPECIES_BARBOACH (Level 30-35)
+      SPECIES_WHISCASH (Level 30-35)
+      SPECIES_WHISCASH (Level 35-40)
+      SPECIES_WHISCASH (Level 40-45)
+
+  Encounter Map: MAP_JAGGED_PASS
+  Encounter Base Label: gJaggedPass
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_GROWLITHE (Level 21-21)
+      SPECIES_HOUNDOUR (Level 21-21)
+      SPECIES_HITMONLEE (Level 21-21)
+      SPECIES_HITMONCHAN (Level 20-20)
+      SPECIES_SLUGMA (Level 20-20)
+      SPECIES_HEATMOR (Level 20-20)
+      SPECIES_FLETCHINDER (Level 21-21)
+      SPECIES_LITLEO (Level 22-22)
+      SPECIES_NUMEL (Level 22-22)
+      SPECIES_SPOINK (Level 22-22)
+      SPECIES_NUMEL (Level 22-22)
+      SPECIES_SPOINK (Level 22-22)
+
+  Encounter Map: MAP_ROUTE106
+  Encounter Base Label: gRoute106
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_INKAY (Level 5-35)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_QWILFISH (Level 15-25)
+      SPECIES_MALAMAR (Level 25-30)
+      SPECIES_CLOBBOPUS (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_BASCULIN (Level 5-10)
+      SPECIES_CLOBBOPUS (Level 10-30)
+      SPECIES_PSYDUCK (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHELLDER (Level 25-30)
+      SPECIES_ALOMOMOLA (Level 30-35)
+      SPECIES_ARROKUDA (Level 20-25)
+      SPECIES_AZURILL (Level 35-40)
+      SPECIES_GYARADOS (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 1
+    Mons:
+      SPECIES_DRATINI (Level 20-28)
+      SPECIES_AZUMARILL (Level 20-28)
+      SPECIES_PIDGEOTTO (Level 20-28)
+
+  Encounter Map: MAP_ROUTE107
+  Encounter Base Label: gRoute107
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_HORSEA (Level 5-35)
+      SPECIES_REMORAID (Level 10-30)
+      SPECIES_ARROKUDA (Level 15-25)
+      SPECIES_BARRASKEWDA (Level 26-30)
+      SPECIES_POPPLIO (Level 5-12)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_BASCULIN (Level 10-30)
+      SPECIES_CLOBBOPUS (Level 10-30)
+      SPECIES_SHELLDER (Level 25-30)
+      SPECIES_ALOMOMOLA (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_ARROKUDA (Level 35-40)
+      SPECIES_MALAMAR (Level 40-45)
+
+  Encounter Map: MAP_ROUTE108
+  Encounter Base Label: gRoute108
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE109
+  Encounter Base Label: gRoute109
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_DUCKLETT (Level 5-35)
+      SPECIES_BRIONNE (Level 10-30)
+      SPECIES_BRUXISH (Level 15-25)
+      SPECIES_CRAMORANT (Level 25-30)
+      SPECIES_ARCTOVISH (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_ARROKUDA (Level 5-10)
+      SPECIES_WISHIWASHI (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SOBBLE (Level 14-15)
+      SPECIES_PYUKUMUKU (Level 30-34)
+      SPECIES_WIMPOD (Level 20-25)
+      SPECIES_CLAUNCHER (Level 29-36)
+      SPECIES_CLAWITZER (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 1
+    Mons:
+      SPECIES_SOBBLE (Level 8-14)
+      SPECIES_OSHAWOTT (Level 8-14)
+      SPECIES_CLAWITZER (Level 37-40)
+
+  Encounter Map: MAP_ROUTE115
+  Encounter Base Label: gRoute115
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_RATTATA_ALOLAN (Level 23-23)
+      SPECIES_AUDINO (Level 23-23)
+      SPECIES_SANDSHREW_ALOLAN (Level 25-25)
+      SPECIES_VULPIX_ALOLAN (Level 24-24)
+      SPECIES_MEOWTH_ALOLAN (Level 25-25)
+      SPECIES_BONSLY (Level 25-25)
+      SPECIES_GRIMER_ALOLAN (Level 25-26)
+      SPECIES_GEODUDE_ALOLAN (Level 25-26)
+      SPECIES_CHERUBI (Level 28-29)
+      SPECIES_DROWZEE (Level 24-24)
+      SPECIES_CHANSEY (Level 22-28)
+      SPECIES_GABITE (Level 24-26)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_CRAWDAUNT (Level 30-35)
+      SPECIES_KINGLER (Level 30-35)
+      SPECIES_WARTORTLE (Level 16-25)
+      SPECIES_CLAUNCHER (Level 25-30)
+      SPECIES_SHARPEDO (Level 30-35)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_CARVANHA (Level 5-10)
+      SPECIES_BARBOACH (Level 5-10)
+      SPECIES_CORPHISH (Level 10-30)
+      SPECIES_SHELLOS (Level 10-30)
+      SPECIES_FINNEON (Level 10-30)
+      SPECIES_LUMINEON (Level 25-30)
+      SPECIES_TIRTOUGA (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_CLAWITZER (Level 35-40)
+      SPECIES_WIMPOD (Level 25-28)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_FURFROU_DANDY_TRIM (Level 25-26)
+      SPECIES_FURFROU_DEBUTANTE_TRIM (Level 26-26)
+      SPECIES_FURFROU_DIAMOND_TRIM (Level 26-26)
+
+  Encounter Map: MAP_NEW_MAUVILLE_INSIDE
+  Encounter Base Label: gNewMauville_Inside
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_PIKACHU (Level 24-24)
+      SPECIES_VOLTORB_HISUIAN (Level 24-24)
+      SPECIES_BOLTUND (Level 25-25)
+      SPECIES_MAGNEMITE (Level 25-25)
+      SPECIES_ELECTRIKE (Level 23-23)
+      SPECIES_ELEKID (Level 23-23)
+      SPECIES_LUXIO (Level 26-26)
+      SPECIES_ZEBSTRIKA (Level 27-28)
+      SPECIES_VOLTORB (Level 22-22)
+      SPECIES_MAGNETON (Level 22-22)
+      SPECIES_ELECTRODE (Level 26-26)
+      SPECIES_ROTOM (Level 26-26)
+
+  Encounter Map: MAP_ROUTE119
+  Encounter Base Label: gRoute119
+  land_mons:
+    Encounter Rate: 15
+    Mons:
+      SPECIES_ZIGZAGOON_GALARIAN (Level 25-25)
+      SPECIES_LINOONE_GALARIAN (Level 25-25)
+      SPECIES_WATCHOG (Level 27-27)
+      SPECIES_PINSIR (Level 26-26)
+      SPECIES_OBSTAGOON (Level 35-35)
+      SPECIES_YANMA (Level 26-26)
+      SPECIES_BIBAREL (Level 27-27)
+      SPECIES_PINECO (Level 24-24)
+      SPECIES_SCYTHER (Level 25-24)
+      SPECIES_STARAVIA (Level 26-26)
+      SPECIES_TRUMBEAK (Level 27-27)
+      SPECIES_AMBIPOM (Level 25-25)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_CARVANHA (Level 10-30)
+      SPECIES_CARVANHA (Level 25-30)
+      SPECIES_CARVANHA (Level 30-35)
+      SPECIES_CARVANHA (Level 20-25)
+      SPECIES_CARVANHA (Level 35-40)
+      SPECIES_WHISCASH (Level 40-45)
+
+  Encounter Map: MAP_ROUTE120
+  Encounter Base Label: gRoute120
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_YANMA (Level 25-25)
+      SPECIES_MIGHTYENA (Level 25-25)
+      SPECIES_KADABRA (Level 27-27)
+      SPECIES_ARBOK (Level 25-25)
+      SPECIES_BEAUTIFLY (Level 25-25)
+      SPECIES_BUTTERFREE (Level 26-26)
+      SPECIES_SILICOBRA (Level 27-27)
+      SPECIES_VIVILLON_JUNGLE (Level 27-27)
+      SPECIES_ACCELGOR (Level 25-25)
+      SPECIES_PIKACHU (Level 27-27)
+      SPECIES_KLEFKI (Level 25-25)
+      SPECIES_MACHOKE (Level 25-25)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_MAGIKARP (Level 20-30)
+      SPECIES_ARROKUDA (Level 10-20)
+      SPECIES_MARILL (Level 30-35)
+      SPECIES_MARILL (Level 5-10)
+      SPECIES_GOLDEEN (Level 20-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_BARBOACH (Level 25-30)
+      SPECIES_ARROKUDA (Level 30-35)
+      SPECIES_BARBOACH (Level 20-25)
+      SPECIES_WISHIWASHI (Level 35-40)
+      SPECIES_WISHIWASHI_SCHOOL (Level 40-45)
+
+  Encounter Map: MAP_ROUTE121
+  Encounter Base Label: gRoute121
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_DRIFLOON (Level 26-26)
+      SPECIES_SHUPPET (Level 26-26)
+      SPECIES_HAUNTER (Level 26-26)
+      SPECIES_SHUPPET (Level 28-28)
+      SPECIES_MIGHTYENA (Level 28-28)
+      SPECIES_MISMAGIUS (Level 26-26)
+      SPECIES_ORICORIO (Level 28-28)
+      SPECIES_GLOOM (Level 28-28)
+      SPECIES_PUMPKABOO (Level 26-26)
+      SPECIES_BELLOSSOM (Level 34-34)
+      SPECIES_BRONZONG (Level 28-28)
+      SPECIES_DREEPY (Level 25-25)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_FRILLISH (Level 5-35)
+      SPECIES_DRIFLOON (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE122
+  Encounter Base Label: gRoute122
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_WISHIWASHI (Level 5-35)
+      SPECIES_SWANNA (Level 10-30)
+      SPECIES_MAGIKARP (Level 15-25)
+      SPECIES_GYARADOS (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE123
+  Encounter Base Label: gRoute123
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_LUXIO (Level 26-26)
+      SPECIES_PACHIRISU (Level 26-26)
+      SPECIES_BLITZLE (Level 26-26)
+      SPECIES_EMOLGA (Level 28-28)
+      SPECIES_JOLTIK (Level 28-28)
+      SPECIES_HELIOPTILE (Level 26-26)
+      SPECIES_DEDENNE (Level 28-28)
+      SPECIES_VIKAVOLT (Level 28-28)
+      SPECIES_SCOLIPEDE (Level 26-26)
+      SPECIES_TOGEDEMARU (Level 27-27)
+      SPECIES_BOLTUND (Level 28-28)
+      SPECIES_MAGNEZONE (Level 25-25)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TYNAMO (Level 5-35)
+      SPECIES_DUCKLETT (Level 10-30)
+      SPECIES_WAILMER (Level 15-25)
+      SPECIES_TENTACOOL (Level 25-30)
+      SPECIES_TENTACRUEL (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_MT_PYRE_2F
+  Encounter Base Label: gMtPyre_2F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GASTLY (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_BANETTE (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_YAMASK (Level 24-24)
+      SPECIES_LITWICK (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_SINISTEA (Level 29-29)
+      SPECIES_SHUPPET (Level 24-24)
+      SPECIES_HAUNTER (Level 29-29)
+      SPECIES_DREEPY (Level 24-24)
+
+  Encounter Map: MAP_MT_PYRE_3F
+  Encounter Base Label: gMtPyre_3F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GASTLY (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_BANETTE (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_YAMASK (Level 24-24)
+      SPECIES_LITWICK (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_SINISTEA (Level 29-29)
+      SPECIES_SHUPPET (Level 24-24)
+      SPECIES_HAUNTER (Level 29-29)
+      SPECIES_DREEPY (Level 24-24)
+
+  Encounter Map: MAP_MT_PYRE_4F
+  Encounter Base Label: gMtPyre_4F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GASTLY (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_BANETTE (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_YAMASK (Level 24-24)
+      SPECIES_LITWICK (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_SINISTEA (Level 29-29)
+      SPECIES_SHUPPET (Level 24-24)
+      SPECIES_HAUNTER (Level 29-29)
+      SPECIES_DREEPY (Level 24-24)
+
+  Encounter Map: MAP_MT_PYRE_5F
+  Encounter Base Label: gMtPyre_5F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GASTLY (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_BANETTE (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_YAMASK (Level 24-24)
+      SPECIES_LITWICK (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_SINISTEA (Level 29-29)
+      SPECIES_SHUPPET (Level 24-24)
+      SPECIES_HAUNTER (Level 29-29)
+      SPECIES_DREEPY (Level 24-24)
+
+  Encounter Map: MAP_MT_PYRE_6F
+  Encounter Base Label: gMtPyre_6F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GASTLY (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_BANETTE (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_YAMASK (Level 24-24)
+      SPECIES_LITWICK (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_SINISTEA (Level 29-29)
+      SPECIES_SHUPPET (Level 24-24)
+      SPECIES_HAUNTER (Level 29-29)
+      SPECIES_DREEPY (Level 24-24)
+
+  Encounter Map: MAP_MT_PYRE_EXTERIOR
+  Encounter Base Label: gMtPyre_Exterior
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAROWAK_ALOLAN (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_VIVILLON_HIGH_PLAINS (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_VULLABY (Level 24-24)
+      SPECIES_VULLABY (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_GOLETT (Level 29-29)
+      SPECIES_ROTOM (Level 24-24)
+      SPECIES_SPIRITOMB (Level 29-29)
+      SPECIES_DREEPY (Level 24-24)
+
+  Encounter Map: MAP_MT_PYRE_SUMMIT
+  Encounter Base Label: gMtPyre_Summit
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAROWAK_ALOLAN (Level 27-27)
+      SPECIES_DUSKULL (Level 28-28)
+      SPECIES_VIVILLON_HIGH_PLAINS (Level 26-26)
+      SPECIES_MISDREAVUS (Level 25-25)
+      SPECIES_FROSLASS (Level 29-29)
+      SPECIES_VULLABY (Level 24-24)
+      SPECIES_VULLABY (Level 23-23)
+      SPECIES_MIMIKYU (Level 22-22)
+      SPECIES_GOLETT (Level 29-29)
+      SPECIES_ROTOM (Level 24-24)
+      SPECIES_SPIRITOMB (Level 29-29)
+      SPECIES_RUFFLET (Level 24-24)
+
+  Encounter Map: MAP_GRANITE_CAVE_STEVENS_ROOM
+  Encounter Base Label: gGraniteCave_StevensRoom
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 7-7)
+      SPECIES_MACHOP (Level 8-8)
+      SPECIES_CRANIDOS (Level 7-7)
+      SPECIES_WOOBAT (Level 8-8)
+      SPECIES_ROGGENROLA (Level 9-9)
+      SPECIES_ROCKRUFF (Level 8-8)
+      SPECIES_MINIOR (Level 10-10)
+      SPECIES_CHEWTLE (Level 6-6)
+      SPECIES_ROLYCOLY (Level 7-7)
+      SPECIES_BONSLY (Level 8-8)
+      SPECIES_SHIELDON (Level 7-7)
+      SPECIES_LARVITAR (Level 8-8)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_NIDORAN_F (Level 3-5)
+      SPECIES_NIDORAN_M (Level 3-5)
+      SPECIES_VULPIX (Level 3-5)
+
+  Encounter Map: MAP_ROUTE125
+  Encounter Base Label: gRoute125
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ARROKUDA (Level 5-35)
+      SPECIES_CRAMORANT (Level 10-30)
+      SPECIES_WISHIWASHI_SCHOOL (Level 15-25)
+      SPECIES_JELLICENT (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE126
+  Encounter Base Label: gRoute126
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_DEWGONG (Level 34-35)
+      SPECIES_SPHEAL (Level 10-30)
+      SPECIES_CRABRAWLER (Level 15-25)
+      SPECIES_TENTACRUEL (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE127
+  Encounter Base Label: gRoute127
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_EISCUE (Level 5-35)
+      SPECIES_SWANNA (Level 33-33)
+      SPECIES_DUCKLETT (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE128
+  Encounter Base Label: gRoute128
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_CLOYSTER (Level 5-35)
+      SPECIES_CLOBBOPUS (Level 10-30)
+      SPECIES_LAPRAS (Level 15-25)
+      SPECIES_CLAUNCHER (Level 25-30)
+      SPECIES_TENTACRUEL (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_LUVDISC (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_LUVDISC (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_CORSOLA (Level 30-35)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE129
+  Encounter Base Label: gRoute129
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_CLOBBOPUS (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_WAILORD (Level 40-41)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE130
+  Encounter Base Label: gRoute130
+  land_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_WYNAUT (Level 30-30)
+      SPECIES_WYNAUT (Level 35-35)
+      SPECIES_WYNAUT (Level 25-25)
+      SPECIES_WYNAUT (Level 40-40)
+      SPECIES_WYNAUT (Level 20-20)
+      SPECIES_WYNAUT (Level 45-45)
+      SPECIES_WYNAUT (Level 15-15)
+      SPECIES_WYNAUT (Level 50-50)
+      SPECIES_WYNAUT (Level 10-10)
+      SPECIES_WYNAUT (Level 5-5)
+      SPECIES_WYNAUT (Level 10-10)
+      SPECIES_WYNAUT (Level 5-5)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE131
+  Encounter Base Label: gRoute131
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_EISCUE_NOICE_FACE (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILORD (Level 40-43)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE132
+  Encounter Base Label: gRoute132
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_HORSEA (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE133
+  Encounter Base Label: gRoute133
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_SWANNA (Level 15-25)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_TENTACRUEL (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_HORSEA (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ROUTE134
+  Encounter Base Label: gRoute134
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_CARVANHA (Level 5-35)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_MAGIKARP (Level 15-25)
+      SPECIES_SHARPEDO (Level 25-30)
+      SPECIES_WAILMER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_HORSEA (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_ABANDONED_SHIP_HIDDEN_FLOOR_CORRIDORS
+  Encounter Base Label: gAbandonedShip_HiddenFloorCorridors
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_TENTACRUEL (Level 30-35)
+  fishing_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_TENTACOOL (Level 25-30)
+      SPECIES_TENTACOOL (Level 30-35)
+      SPECIES_TENTACRUEL (Level 30-35)
+      SPECIES_TENTACRUEL (Level 25-30)
+      SPECIES_TENTACRUEL (Level 20-25)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM1
+  Encounter Base Label: gSeafloorCavern_Room1
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM2
+  Encounter Base Label: gSeafloorCavern_Room2
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM3
+  Encounter Base Label: gSeafloorCavern_Room3
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM4
+  Encounter Base Label: gSeafloorCavern_Room4
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM5
+  Encounter Base Label: gSeafloorCavern_Room5
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM6
+  Encounter Base Label: gSeafloorCavern_Room6
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_ZUBAT (Level 5-35)
+      SPECIES_ZUBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM7
+  Encounter Base Label: gSeafloorCavern_Room7
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_ZUBAT (Level 5-35)
+      SPECIES_ZUBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ROOM8
+  Encounter Base Label: gSeafloorCavern_Room8
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_SEAFLOOR_CAVERN_ENTRANCE
+  Encounter Base Label: gSeafloorCavern_Entrance
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_ZUBAT (Level 5-35)
+      SPECIES_ZUBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_CAVE_OF_ORIGIN_ENTRANCE
+  Encounter Base Label: gCaveOfOrigin_Entrance
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_ZUBAT (Level 29-29)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_ZUBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_CAVE_OF_ORIGIN_1F
+  Encounter Base Label: gCaveOfOrigin_1F
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_SABLEYE (Level 30-30)
+      SPECIES_SABLEYE (Level 32-32)
+      SPECIES_SABLEYE (Level 34-34)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_CAVE_OF_ORIGIN_UNUSED_RUBY_SAPPHIRE_MAP1
+  Encounter Base Label: gCaveOfOrigin_UnusedRubySapphireMap1
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_SABLEYE (Level 30-30)
+      SPECIES_SABLEYE (Level 32-32)
+      SPECIES_SABLEYE (Level 34-34)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_CAVE_OF_ORIGIN_UNUSED_RUBY_SAPPHIRE_MAP2
+  Encounter Base Label: gCaveOfOrigin_UnusedRubySapphireMap2
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_SABLEYE (Level 30-30)
+      SPECIES_SABLEYE (Level 32-32)
+      SPECIES_SABLEYE (Level 34-34)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_CAVE_OF_ORIGIN_UNUSED_RUBY_SAPPHIRE_MAP3
+  Encounter Base Label: gCaveOfOrigin_UnusedRubySapphireMap3
+  land_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_ZUBAT (Level 31-31)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_SABLEYE (Level 30-30)
+      SPECIES_SABLEYE (Level 32-32)
+      SPECIES_SABLEYE (Level 34-34)
+      SPECIES_ZUBAT (Level 33-33)
+      SPECIES_ZUBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 36-36)
+
+  Encounter Map: MAP_NEW_MAUVILLE_ENTRANCE
+  Encounter Base Label: gNewMauville_Entrance
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_VOLTORB (Level 24-24)
+      SPECIES_GEODUDE_ALOLAN (Level 24-24)
+      SPECIES_PIKACHU (Level 25-25)
+      SPECIES_MAGNEMITE (Level 23-25)
+      SPECIES_PIKACHU (Level 23-23)
+      SPECIES_MAGNEMITE (Level 23-23)
+      SPECIES_PIKACHU (Level 26-26)
+      SPECIES_PIKACHU (Level 26-26)
+      SPECIES_PIKACHU (Level 22-22)
+      SPECIES_MAGNEMITE (Level 22-22)
+      SPECIES_VOLTORB (Level 22-22)
+      SPECIES_DIGLETT (Level 22-22)
+
+  Encounter Map: MAP_SAFARI_ZONE_SOUTHWEST
+  Encounter Base Label: gSafariZone_Southwest
+  land_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_ODDISH (Level 25-25)
+      SPECIES_ODDISH (Level 27-27)
+      SPECIES_GIRAFARIG (Level 25-25)
+      SPECIES_GIRAFARIG (Level 27-27)
+      SPECIES_NATU (Level 25-25)
+      SPECIES_DODUO (Level 27-27)
+      SPECIES_GLOOM (Level 25-25)
+      SPECIES_WOBBUFFET (Level 27-27)
+      SPECIES_PIKACHU (Level 25-25)
+      SPECIES_WOBBUFFET (Level 27-27)
+      SPECIES_PIKACHU (Level 27-27)
+      SPECIES_WOBBUFFET (Level 29-29)
+  water_mons:
+    Encounter Rate: 9
+    Mons:
+      SPECIES_PSYDUCK (Level 20-30)
+      SPECIES_PSYDUCK (Level 20-30)
+      SPECIES_PSYDUCK (Level 30-35)
+      SPECIES_PSYDUCK (Level 30-35)
+      SPECIES_PSYDUCK (Level 30-35)
+  fishing_mons:
+    Encounter Rate: 35
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-25)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_GOLDEEN (Level 25-30)
+      SPECIES_GOLDEEN (Level 30-35)
+      SPECIES_SEAKING (Level 30-35)
+      SPECIES_SEAKING (Level 35-40)
+      SPECIES_SEAKING (Level 25-30)
+
+  Encounter Map: MAP_SAFARI_ZONE_NORTH
+  Encounter Base Label: gSafariZone_North
+  land_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_PHANPY (Level 27-27)
+      SPECIES_ODDISH (Level 27-27)
+      SPECIES_PHANPY (Level 29-29)
+      SPECIES_ODDISH (Level 29-29)
+      SPECIES_NATU (Level 27-27)
+      SPECIES_GLOOM (Level 29-29)
+      SPECIES_GLOOM (Level 31-31)
+      SPECIES_NATU (Level 29-29)
+      SPECIES_XATU (Level 29-29)
+      SPECIES_HERACROSS (Level 27-27)
+      SPECIES_XATU (Level 31-31)
+      SPECIES_HERACROSS (Level 29-29)
+  rock_smash_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_GEODUDE (Level 10-15)
+      SPECIES_GEODUDE (Level 5-10)
+      SPECIES_GEODUDE (Level 15-20)
+      SPECIES_GEODUDE (Level 20-25)
+      SPECIES_GEODUDE (Level 25-30)
+
+  Encounter Map: MAP_SAFARI_ZONE_NORTHWEST
+  Encounter Base Label: gSafariZone_Northwest
+  land_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_RHYHORN (Level 27-27)
+      SPECIES_ODDISH (Level 28-29)
+      SPECIES_RHYHORN (Level 29-29)
+      SPECIES_ODDISH (Level 29-29)
+      SPECIES_DODUO (Level 27-27)
+      SPECIES_GLOOM (Level 29-29)
+      SPECIES_GLOOM (Level 31-31)
+      SPECIES_DODUO (Level 29-29)
+      SPECIES_DODRIO (Level 29-29)
+      SPECIES_PINSIR (Level 27-27)
+      SPECIES_DODRIO (Level 31-31)
+      SPECIES_PINSIR (Level 29-29)
+  water_mons:
+    Encounter Rate: 9
+    Mons:
+      SPECIES_PSYDUCK (Level 20-30)
+      SPECIES_PSYDUCK (Level 20-30)
+      SPECIES_PSYDUCK (Level 30-35)
+      SPECIES_GOLDUCK (Level 30-35)
+      SPECIES_GOLDUCK (Level 25-40)
+  fishing_mons:
+    Encounter Rate: 35
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-25)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_GOLDEEN (Level 25-30)
+      SPECIES_GOLDEEN (Level 30-35)
+      SPECIES_SEAKING (Level 30-35)
+      SPECIES_SEAKING (Level 35-40)
+      SPECIES_SEAKING (Level 25-30)
+
+  Encounter Map: MAP_VICTORY_ROAD_B1F
+  Encounter Base Label: gVictoryRoad_B1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_LUXIO (Level 40-40)
+      SPECIES_ROSERADE (Level 40-40)
+      SPECIES_RAMPARDOS (Level 40-40)
+      SPECIES_HIPPOWDON (Level 40-40)
+      SPECIES_STOUTLAND (Level 36-36)
+      SPECIES_MUDSDALE (Level 36-36)
+      SPECIES_GOLEM (Level 38-38)
+      SPECIES_GLISCOR (Level 38-38)
+      SPECIES_PILOSWINE (Level 36-36)
+      SPECIES_PUPITAR (Level 36-36)
+      SPECIES_STONJOURNER (Level 36-36)
+      SPECIES_GARCHOMP (Level 48-50)
+  rock_smash_mons:
+    Encounter Rate: 20
+    Mons:
+      SPECIES_GRAVELER (Level 30-40)
+      SPECIES_GEODUDE (Level 30-40)
+      SPECIES_GRAVELER (Level 35-40)
+      SPECIES_GRAVELER (Level 35-40)
+      SPECIES_GRAVELER (Level 35-40)
+
+  Encounter Map: MAP_VICTORY_ROAD_B2F
+  Encounter Base Label: gVictoryRoad_B2F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_LUXIO (Level 40-40)
+      SPECIES_ROSERADE (Level 40-40)
+      SPECIES_RAMPARDOS (Level 40-40)
+      SPECIES_HIPPOWDON (Level 40-40)
+      SPECIES_STOUTLAND (Level 36-36)
+      SPECIES_MUDSDALE (Level 36-36)
+      SPECIES_GOLEM (Level 38-38)
+      SPECIES_GLISCOR (Level 38-38)
+      SPECIES_PILOSWINE (Level 36-36)
+      SPECIES_PUPITAR (Level 36-36)
+      SPECIES_TORTERRA (Level 36-36)
+      SPECIES_GARCHOMP (Level 48-50)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_BARBOACH (Level 25-30)
+      SPECIES_BARBOACH (Level 30-35)
+      SPECIES_WHISCASH (Level 30-35)
+      SPECIES_WHISCASH (Level 35-40)
+      SPECIES_WHISCASH (Level 40-45)
+
+  Encounter Map: MAP_METEOR_FALLS_1F_1R
+  Encounter Base Label: gMeteorFalls_1F_1R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SWOOBAT (Level 16-16)
+      SPECIES_NOIBAT (Level 17-17)
+      SPECIES_ZUBAT (Level 18-18)
+      SPECIES_ACCELGOR (Level 15-15)
+      SPECIES_LITWICK (Level 14-14)
+      SPECIES_SOLROCK (Level 16-16)
+      SPECIES_LARVITAR (Level 18-18)
+      SPECIES_NOSEPASS (Level 14-14)
+      SPECIES_ROCKRUFF (Level 19-19)
+      SPECIES_CARBINK (Level 20-20)
+      SPECIES_BINACLE (Level 19-19)
+      SPECIES_ONIX (Level 20-20)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_ZUBAT (Level 5-35)
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_SOLROCK (Level 25-35)
+      SPECIES_SOLROCK (Level 15-25)
+      SPECIES_SOLROCK (Level 5-15)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_ARROKUDA (Level 25-30)
+      SPECIES_BARBOACH (Level 30-35)
+      SPECIES_KABUTO (Level 20-25)
+      SPECIES_OMANYTE (Level 35-40)
+      SPECIES_GYARADOS (Level 40-45)
+
+  Encounter Map: MAP_METEOR_FALLS_1F_2R
+  Encounter Base Label: gMeteorFalls_1F_2R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_CUFANT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_SOLROCK (Level 35-35)
+      SPECIES_SOLROCK (Level 33-33)
+      SPECIES_SOLROCK (Level 37-37)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_SOLROCK (Level 39-39)
+      SPECIES_NOIBAT (Level 38-38)
+      SPECIES_NOIBAT (Level 40-40)
+      SPECIES_NOIBAT (Level 38-38)
+      SPECIES_NOIBAT (Level 40-40)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_SOLROCK (Level 25-35)
+      SPECIES_SOLROCK (Level 15-25)
+      SPECIES_SOLROCK (Level 5-15)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_BARBOACH (Level 25-30)
+      SPECIES_BARBOACH (Level 30-35)
+      SPECIES_WHISCASH (Level 30-35)
+      SPECIES_WHISCASH (Level 35-40)
+      SPECIES_WHISCASH (Level 40-45)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_DURALUDON (Level 35-36)
+      SPECIES_TYRUNT (Level 35-36)
+      SPECIES_SHELLOS_EAST_SEA (Level 15-18)
+
+  Encounter Map: MAP_METEOR_FALLS_B1F_1R
+  Encounter Base Label: gMeteorFalls_B1F_1R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_PUPITAR (Level 35-35)
+      SPECIES_RHYHORN (Level 33-33)
+      SPECIES_LYCANROC (Level 35-35)
+      SPECIES_LYCANROC (Level 33-33)
+      SPECIES_SOLROCK (Level 37-37)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_SOLROCK (Level 39-39)
+      SPECIES_RHYDON (Level 42-42)
+      SPECIES_DREDNAW (Level 40-40)
+      SPECIES_MINIOR (Level 38-38)
+      SPECIES_NOIVERN (Level 48-48)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_RELICANTH (Level 30-35)
+      SPECIES_NOIBAT (Level 30-35)
+      SPECIES_SOLROCK (Level 25-35)
+      SPECIES_LUNATONE (Level 15-25)
+      SPECIES_GYARADOS (Level 28-31)
+  fishing_mons:
+    Encounter Rate: 30
+    Mons:
+      SPECIES_ARROKUDA (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_BARBOACH (Level 10-30)
+      SPECIES_BARBOACH (Level 25-30)
+      SPECIES_BARBOACH (Level 30-35)
+      SPECIES_WHISCASH (Level 30-35)
+      SPECIES_WHISCASH (Level 35-40)
+      SPECIES_GYARADOS (Level 40-45)
+
+  Encounter Map: MAP_SHOAL_CAVE_LOW_TIDE_STAIRS_ROOM
+  Encounter Base Label: gShoalCave_LowTideStairsRoom
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_ZUBAT (Level 26-26)
+      SPECIES_SPHEAL (Level 26-26)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_SPHEAL (Level 28-28)
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_SPHEAL (Level 30-30)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+      SPECIES_NOIBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+      SPECIES_NOIBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+
+  Encounter Map: MAP_SHOAL_CAVE_LOW_TIDE_LOWER_ROOM
+  Encounter Base Label: gShoalCave_LowTideLowerRoom
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_ZUBAT (Level 26-26)
+      SPECIES_SPHEAL (Level 26-24)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_SPHEAL (Level 28-28)
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_SPHEAL (Level 30-30)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+      SPECIES_NOIBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+      SPECIES_NOIBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+
+  Encounter Map: MAP_SHOAL_CAVE_LOW_TIDE_INNER_ROOM
+  Encounter Base Label: gShoalCave_LowTideInnerRoom
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_ZUBAT (Level 26-26)
+      SPECIES_SPHEAL (Level 26-26)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_SPHEAL (Level 28-28)
+      SPECIES_ZUBAT (Level 30-30)
+      SPECIES_SPHEAL (Level 30-30)
+      SPECIES_ZUBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+      SPECIES_NOIBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+      SPECIES_NOIBAT (Level 32-32)
+      SPECIES_SPHEAL (Level 32-32)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_ZUBAT (Level 5-35)
+      SPECIES_SPHEAL (Level 25-30)
+      SPECIES_SPHEAL (Level 25-30)
+      SPECIES_SPHEAL (Level 25-35)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_SHOAL_CAVE_LOW_TIDE_ENTRANCE_ROOM
+  Encounter Base Label: gShoalCave_LowTideEntranceRoom
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_WOOBAT (Level 26-26)
+      SPECIES_NOIBAT (Level 26-26)
+      SPECIES_ZUBAT (Level 28-28)
+      SPECIES_SPHEAL (Level 28-28)
+      SPECIES_SNEASEL (Level 30-30)
+      SPECIES_BERGMITE (Level 30-30)
+      SPECIES_FROSMOTH (Level 32-32)
+      SPECIES_SWOOBAT (Level 32-32)
+      SPECIES_NOIBAT (Level 32-32)
+      SPECIES_SANDSLASH_ALOLAN (Level 32-32)
+      SPECIES_CRYOGONAL (Level 32-32)
+      SPECIES_GLACEON (Level 32-32)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_ZUBAT (Level 5-35)
+      SPECIES_SPHEAL (Level 25-30)
+      SPECIES_SEEL (Level 25-30)
+      SPECIES_VANILLITE (Level 25-35)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_LILYCOVE_CITY
+  Encounter Base Label: gLilycoveCity
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_STARYU (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_DEWFORD_TOWN
+  Encounter Base Label: gDewfordTown
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_INKAY (Level 5-29)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_QWILFISH (Level 15-25)
+      SPECIES_MALAMAR (Level 30-37)
+      SPECIES_CLOBBOPUS (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_BASCULIN (Level 5-10)
+      SPECIES_CLOBBOPUS (Level 10-30)
+      SPECIES_PSYDUCK (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHELLDER (Level 25-30)
+      SPECIES_ALOMOMOLA (Level 30-35)
+      SPECIES_ARROKUDA (Level 20-25)
+      SPECIES_AZURILL (Level 35-40)
+      SPECIES_SOBBLE (Level 5-14)
+
+  Encounter Map: MAP_SLATEPORT_CITY
+  Encounter Base Label: gSlateportCity
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 20-25)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_MOSSDEEP_CITY
+  Encounter Base Label: gMossdeepCity
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_PACIFIDLOG_TOWN
+  Encounter Base Label: gPacifidlogTown
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_TENTACOOL (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_SHARPEDO (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_WAILMER (Level 25-30)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_EVER_GRANDE_CITY
+  Encounter Base Label: gEverGrandeCity
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_TENTACOOL (Level 5-35)
+      SPECIES_WINGULL (Level 10-30)
+      SPECIES_WINGULL (Level 15-25)
+      SPECIES_PELIPPER (Level 25-30)
+      SPECIES_PELIPPER (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_LUVDISC (Level 10-30)
+      SPECIES_WAILMER (Level 10-30)
+      SPECIES_LUVDISC (Level 30-35)
+      SPECIES_WAILMER (Level 30-35)
+      SPECIES_CORSOLA (Level 30-35)
+      SPECIES_WAILMER (Level 35-40)
+      SPECIES_WAILMER (Level 40-45)
+
+  Encounter Map: MAP_PETALBURG_CITY
+  Encounter Base Label: gPetalburgCity
+  water_mons:
+    Encounter Rate: 1
+    Mons:
+      SPECIES_MARILL (Level 20-30)
+      SPECIES_MARILL (Level 10-20)
+      SPECIES_MARILL (Level 30-35)
+      SPECIES_MARILL (Level 5-10)
+      SPECIES_MARILL (Level 5-10)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_GOLDEEN (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_GOLDEEN (Level 10-30)
+      SPECIES_CORPHISH (Level 10-30)
+      SPECIES_CORPHISH (Level 25-30)
+      SPECIES_CORPHISH (Level 30-35)
+      SPECIES_CORPHISH (Level 20-25)
+      SPECIES_CORPHISH (Level 35-40)
+      SPECIES_CORPHISH (Level 40-45)
+
+  Encounter Map: MAP_UNDERWATER_ROUTE124
+  Encounter Base Label: gUnderwater_Route124
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_SKRELP (Level 20-30)
+      SPECIES_CLAUNCHER (Level 20-30)
+      SPECIES_MAREANIE (Level 30-35)
+      SPECIES_PYUKUMUKU (Level 30-35)
+      SPECIES_BINACLE (Level 30-35)
+
+  Encounter Map: MAP_SHOAL_CAVE_LOW_TIDE_ICE_ROOM
+  Encounter Base Label: gShoalCave_LowTideIceRoom
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SNEASEL (Level 26-26)
+      SPECIES_SWINUB (Level 26-26)
+      SPECIES_SNORUNT (Level 28-28)
+      SPECIES_SNOVER (Level 28-28)
+      SPECIES_VANILLITE (Level 30-30)
+      SPECIES_CUBCHOO (Level 30-30)
+      SPECIES_CRYOGONAL (Level 26-26)
+      SPECIES_BERGMITE (Level 30-32)
+      SPECIES_EISCUE (Level 30-30)
+      SPECIES_SANDSLASH_ALOLAN (Level 28-28)
+      SPECIES_MR_MIME_GALARIAN (Level 32-32)
+      SPECIES_GLACEON (Level 30-30)
+  hidden_mons:
+    Encounter Rate: 0
+    Mons:
+      SPECIES_SNEASEL_HISUIAN (Level 25-26)
+      SPECIES_ARCTOZOLT (Level 26-26)
+      SPECIES_ARCTOVISH (Level 26-26)
+
+  Encounter Map: MAP_SKY_PILLAR_1F
+  Encounter Base Label: gSkyPillar_1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SABLEYE (Level 33-33)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_SABLEYE (Level 34-34)
+      SPECIES_CLAYDOL (Level 36-36)
+      SPECIES_BANETTE (Level 37-37)
+      SPECIES_BANETTE (Level 38-38)
+      SPECIES_CLAYDOL (Level 36-36)
+      SPECIES_CLAYDOL (Level 37-37)
+      SPECIES_CLAYDOL (Level 38-38)
+      SPECIES_CLAYDOL (Level 37-37)
+      SPECIES_CLAYDOL (Level 38-38)
+
+  Encounter Map: MAP_SOOTOPOLIS_CITY
+  Encounter Base Label: gSootopolisCity
+  water_mons:
+    Encounter Rate: 1
+    Mons:
+      SPECIES_MAGIKARP (Level 5-35)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_MAGIKARP (Level 15-25)
+      SPECIES_MAGIKARP (Level 25-30)
+      SPECIES_MAGIKARP (Level 25-30)
+  fishing_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MAGIKARP (Level 5-10)
+      SPECIES_TENTACOOL (Level 5-10)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_MAGIKARP (Level 10-30)
+      SPECIES_MAGIKARP (Level 30-35)
+      SPECIES_MAGIKARP (Level 30-35)
+      SPECIES_GYARADOS (Level 35-40)
+      SPECIES_GYARADOS (Level 35-45)
+      SPECIES_GYARADOS (Level 5-45)
+
+  Encounter Map: MAP_SKY_PILLAR_3F
+  Encounter Base Label: gSkyPillar_3F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SABLEYE (Level 33-33)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_SABLEYE (Level 34-34)
+      SPECIES_CLAYDOL (Level 36-36)
+      SPECIES_BANETTE (Level 37-37)
+      SPECIES_BANETTE (Level 38-38)
+      SPECIES_CLAYDOL (Level 36-36)
+      SPECIES_CLAYDOL (Level 37-37)
+      SPECIES_CLAYDOL (Level 38-38)
+      SPECIES_CLAYDOL (Level 37-37)
+      SPECIES_CLAYDOL (Level 38-38)
+
+  Encounter Map: MAP_SKY_PILLAR_5F
+  Encounter Base Label: gSkyPillar_5F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SABLEYE (Level 33-33)
+      SPECIES_NOIBAT (Level 34-34)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_SABLEYE (Level 34-34)
+      SPECIES_CLAYDOL (Level 36-36)
+      SPECIES_BANETTE (Level 37-37)
+      SPECIES_BANETTE (Level 38-38)
+      SPECIES_CLAYDOL (Level 36-36)
+      SPECIES_CLAYDOL (Level 37-37)
+      SPECIES_ALTARIA (Level 38-38)
+      SPECIES_ALTARIA (Level 39-39)
+      SPECIES_ALTARIA (Level 39-39)
+
+  Encounter Map: MAP_SAFARI_ZONE_SOUTHEAST
+  Encounter Base Label: gSafariZone_Southeast
+  land_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_BULBASAUR (Level 10-10)
+      SPECIES_CHARMANDER (Level 10-10)
+      SPECIES_SQUIRTLE (Level 10-10)
+      SPECIES_CHIKORITA (Level 10-10)
+      SPECIES_CYNDAQUIL (Level 10-10)
+      SPECIES_TOTODILE (Level 10-10)
+      SPECIES_TREECKO (Level 10-10)
+      SPECIES_TORCHIC (Level 10-10)
+      SPECIES_MUDKIP (Level 10-10)
+      SPECIES_TURTWIG (Level 10-10)
+      SPECIES_CHIMCHAR (Level 10-10)
+      SPECIES_PIPLUP (Level 10-10)
+  water_mons:
+    Encounter Rate: 9
+    Mons:
+      SPECIES_WOOPER (Level 25-30)
+      SPECIES_MARILL (Level 25-30)
+      SPECIES_MARILL (Level 25-30)
+      SPECIES_MARILL (Level 30-35)
+      SPECIES_QUAGSIRE (Level 35-40)
+  fishing_mons:
+    Encounter Rate: 35
+    Mons:
+      SPECIES_MAGIKARP (Level 25-30)
+      SPECIES_GOLDEEN (Level 25-30)
+      SPECIES_MAGIKARP (Level 25-30)
+      SPECIES_GOLDEEN (Level 25-30)
+      SPECIES_REMORAID (Level 30-35)
+      SPECIES_GOLDEEN (Level 25-30)
+      SPECIES_REMORAID (Level 25-30)
+      SPECIES_REMORAID (Level 30-35)
+      SPECIES_REMORAID (Level 30-35)
+      SPECIES_OCTILLERY (Level 35-40)
+
+  Encounter Map: MAP_SAFARI_ZONE_NORTHEAST
+  Encounter Base Label: gSafariZone_Northeast
+  land_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_SNIVY (Level 10-10)
+      SPECIES_TEPIG (Level 10-10)
+      SPECIES_OSHAWOTT (Level 10-10)
+      SPECIES_CHESPIN (Level 10-10)
+      SPECIES_FENNEKIN (Level 10-10)
+      SPECIES_FROAKIE (Level 10-10)
+      SPECIES_ROWLET (Level 10-10)
+      SPECIES_LITTEN (Level 10-10)
+      SPECIES_POPPLIO (Level 10-10)
+      SPECIES_GROOKEY (Level 10-10)
+      SPECIES_SCORBUNNY (Level 10-10)
+      SPECIES_SOBBLE (Level 10-10)
+  rock_smash_mons:
+    Encounter Rate: 25
+    Mons:
+      SPECIES_SHUCKLE (Level 25-30)
+      SPECIES_SHUCKLE (Level 20-25)
+      SPECIES_SHUCKLE (Level 30-35)
+      SPECIES_SHUCKLE (Level 30-35)
+      SPECIES_SHUCKLE (Level 35-40)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_1F
+  Encounter Base Label: gMagmaHideout_1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_2F_1R
+  Encounter Base Label: gMagmaHideout_2F_1R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_2F_2R
+  Encounter Base Label: gMagmaHideout_2F_2R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_3F_1R
+  Encounter Base Label: gMagmaHideout_3F_1R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_3F_2R
+  Encounter Base Label: gMagmaHideout_3F_2R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_4F
+  Encounter Base Label: gMagmaHideout_4F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_3F_3R
+  Encounter Base Label: gMagmaHideout_3F_3R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MAGMA_HIDEOUT_2F_3R
+  Encounter Base Label: gMagmaHideout_2F_3R
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_GROWLITHE (Level 25-28)
+      SPECIES_HOUNDOUR (Level 25-28)
+      SPECIES_PONYTA (Level 25-28)
+      SPECIES_LITLEO (Level 20-20)
+      SPECIES_SLUGMA (Level 28-29)
+      SPECIES_HEATMOR (Level 26-29)
+      SPECIES_FLETCHINDER (Level 26-29)
+      SPECIES_LITLEO (Level 27-30)
+      SPECIES_NUMEL (Level 25-32)
+      SPECIES_SPOINK (Level 27-32)
+      SPECIES_QUILAVA (Level 28-33)
+      SPECIES_TORRACAT (Level 27-35)
+
+  Encounter Map: MAP_MIRAGE_TOWER_1F
+  Encounter Base Label: gMirageTower_1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SANDILE (Level 21-21)
+      SPECIES_SILICOBRA (Level 21-21)
+      SPECIES_SANDSHREW (Level 20-20)
+      SPECIES_TRAPINCH (Level 20-20)
+      SPECIES_DIGLETT_ALOLAN (Level 20-20)
+      SPECIES_RHYHORN (Level 20-20)
+      SPECIES_SANDSHREW (Level 22-22)
+      SPECIES_CUBONE (Level 22-22)
+      SPECIES_HIPPOPOTAS (Level 23-23)
+      SPECIES_LARVITAR (Level 23-23)
+      SPECIES_ONIX (Level 24-24)
+      SPECIES_GLIGAR (Level 24-24)
+
+  Encounter Map: MAP_MIRAGE_TOWER_2F
+  Encounter Base Label: gMirageTower_2F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SANDILE (Level 21-21)
+      SPECIES_SILICOBRA (Level 21-21)
+      SPECIES_SANDSHREW (Level 20-20)
+      SPECIES_TRAPINCH (Level 20-20)
+      SPECIES_DIGLETT_ALOLAN (Level 20-20)
+      SPECIES_RHYHORN (Level 20-20)
+      SPECIES_SANDSHREW (Level 22-22)
+      SPECIES_CUBONE (Level 22-22)
+      SPECIES_HIPPOPOTAS (Level 23-23)
+      SPECIES_LARVITAR (Level 23-23)
+      SPECIES_ONIX (Level 24-24)
+      SPECIES_GLIGAR (Level 24-24)
+
+  Encounter Map: MAP_MIRAGE_TOWER_3F
+  Encounter Base Label: gMirageTower_3F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SANDILE (Level 21-21)
+      SPECIES_SILICOBRA (Level 21-21)
+      SPECIES_SANDSHREW (Level 20-20)
+      SPECIES_TRAPINCH (Level 20-20)
+      SPECIES_DIGLETT_ALOLAN (Level 20-20)
+      SPECIES_RHYHORN (Level 20-20)
+      SPECIES_SANDSHREW (Level 22-22)
+      SPECIES_CUBONE (Level 22-22)
+      SPECIES_HIPPOPOTAS (Level 23-23)
+      SPECIES_LARVITAR (Level 23-23)
+      SPECIES_ONIX (Level 24-24)
+      SPECIES_GLIGAR (Level 24-24)
+
+  Encounter Map: MAP_MIRAGE_TOWER_4F
+  Encounter Base Label: gMirageTower_4F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SANDILE (Level 21-21)
+      SPECIES_SILICOBRA (Level 21-21)
+      SPECIES_SANDSHREW (Level 20-20)
+      SPECIES_TRAPINCH (Level 20-20)
+      SPECIES_DIGLETT_ALOLAN (Level 20-20)
+      SPECIES_RHYHORN (Level 20-20)
+      SPECIES_SANDSHREW (Level 22-22)
+      SPECIES_CUBONE (Level 22-22)
+      SPECIES_HIPPOPOTAS (Level 23-23)
+      SPECIES_LARVITAR (Level 23-23)
+      SPECIES_ONIX (Level 24-24)
+      SPECIES_GLIGAR (Level 24-24)
+
+  Encounter Map: MAP_DESERT_UNDERPASS
+  Encounter Base Label: gDesertUnderpass
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_DITTO (Level 38-38)
+      SPECIES_MR_MIME (Level 35-35)
+      SPECIES_MAWILE (Level 40-40)
+      SPECIES_TOGETIC (Level 40-40)
+      SPECIES_MORGREM (Level 41-41)
+      SPECIES_ALCREMIE (Level 36-36)
+      SPECIES_JYNX (Level 38-38)
+      SPECIES_HATTERENE (Level 42-42)
+      SPECIES_GRANBULL (Level 38-38)
+      SPECIES_RAPIDASH_GALARIAN (Level 43-43)
+      SPECIES_WEEZING_GALARIAN (Level 44-44)
+      SPECIES_NINETALES_ALOLAN (Level 45-45)
+
+  Encounter Map: MAP_ARTISAN_CAVE_B1F
+  Encounter Base Label: gArtisanCave_B1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SMEARGLE (Level 40-40)
+      SPECIES_SMEARGLE (Level 41-41)
+      SPECIES_SMEARGLE (Level 42-42)
+      SPECIES_SMEARGLE (Level 43-43)
+      SPECIES_SMEARGLE (Level 44-44)
+      SPECIES_SMEARGLE (Level 45-45)
+      SPECIES_SMEARGLE (Level 46-46)
+      SPECIES_SMEARGLE (Level 47-47)
+      SPECIES_SMEARGLE (Level 48-48)
+      SPECIES_SMEARGLE (Level 49-49)
+      SPECIES_SMEARGLE (Level 50-50)
+      SPECIES_SMEARGLE (Level 50-50)
+
+  Encounter Map: MAP_ARTISAN_CAVE_1F
+  Encounter Base Label: gArtisanCave_1F
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_SMEARGLE (Level 40-40)
+      SPECIES_SMEARGLE (Level 41-41)
+      SPECIES_SMEARGLE (Level 42-42)
+      SPECIES_SMEARGLE (Level 43-43)
+      SPECIES_SMEARGLE (Level 44-44)
+      SPECIES_SMEARGLE (Level 45-45)
+      SPECIES_SMEARGLE (Level 46-46)
+      SPECIES_SMEARGLE (Level 47-47)
+      SPECIES_SMEARGLE (Level 48-48)
+      SPECIES_SMEARGLE (Level 49-49)
+      SPECIES_SMEARGLE (Level 50-50)
+      SPECIES_SMEARGLE (Level 50-50)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave1
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_ZUBAT (Level 10-10)
+      SPECIES_ZUBAT (Level 12-12)
+      SPECIES_ZUBAT (Level 8-8)
+      SPECIES_ZUBAT (Level 14-14)
+      SPECIES_ZUBAT (Level 10-10)
+      SPECIES_ZUBAT (Level 12-12)
+      SPECIES_ZUBAT (Level 16-16)
+      SPECIES_ZUBAT (Level 6-6)
+      SPECIES_ZUBAT (Level 8-8)
+      SPECIES_ZUBAT (Level 14-14)
+      SPECIES_ZUBAT (Level 8-8)
+      SPECIES_ZUBAT (Level 14-14)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave2
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_MAREEP (Level 7-7)
+      SPECIES_MAREEP (Level 9-9)
+      SPECIES_MAREEP (Level 5-5)
+      SPECIES_MAREEP (Level 11-11)
+      SPECIES_MAREEP (Level 7-7)
+      SPECIES_MAREEP (Level 9-9)
+      SPECIES_MAREEP (Level 13-13)
+      SPECIES_MAREEP (Level 3-3)
+      SPECIES_MAREEP (Level 5-5)
+      SPECIES_MAREEP (Level 11-11)
+      SPECIES_MAREEP (Level 5-5)
+      SPECIES_MAREEP (Level 11-11)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave3
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_PINECO (Level 23-23)
+      SPECIES_PINECO (Level 25-25)
+      SPECIES_PINECO (Level 22-22)
+      SPECIES_PINECO (Level 27-27)
+      SPECIES_PINECO (Level 23-23)
+      SPECIES_PINECO (Level 25-25)
+      SPECIES_PINECO (Level 29-29)
+      SPECIES_PINECO (Level 19-19)
+      SPECIES_PINECO (Level 21-21)
+      SPECIES_PINECO (Level 27-27)
+      SPECIES_PINECO (Level 21-21)
+      SPECIES_PINECO (Level 27-27)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave4
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_HOUNDOUR (Level 16-16)
+      SPECIES_HOUNDOUR (Level 18-18)
+      SPECIES_HOUNDOUR (Level 14-14)
+      SPECIES_HOUNDOUR (Level 20-20)
+      SPECIES_HOUNDOUR (Level 16-16)
+      SPECIES_HOUNDOUR (Level 18-18)
+      SPECIES_HOUNDOUR (Level 22-22)
+      SPECIES_HOUNDOUR (Level 12-12)
+      SPECIES_HOUNDOUR (Level 14-14)
+      SPECIES_HOUNDOUR (Level 20-20)
+      SPECIES_HOUNDOUR (Level 14-14)
+      SPECIES_HOUNDOUR (Level 20-20)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave5
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_TEDDIURSA (Level 10-10)
+      SPECIES_TEDDIURSA (Level 12-12)
+      SPECIES_TEDDIURSA (Level 8-8)
+      SPECIES_TEDDIURSA (Level 14-14)
+      SPECIES_TEDDIURSA (Level 10-10)
+      SPECIES_TEDDIURSA (Level 12-12)
+      SPECIES_TEDDIURSA (Level 16-16)
+      SPECIES_TEDDIURSA (Level 6-6)
+      SPECIES_TEDDIURSA (Level 8-8)
+      SPECIES_TEDDIURSA (Level 14-14)
+      SPECIES_TEDDIURSA (Level 8-8)
+      SPECIES_TEDDIURSA (Level 14-14)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave6
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_AIPOM (Level 22-22)
+      SPECIES_AIPOM (Level 24-24)
+      SPECIES_AIPOM (Level 20-20)
+      SPECIES_AIPOM (Level 26-26)
+      SPECIES_AIPOM (Level 22-22)
+      SPECIES_AIPOM (Level 24-24)
+      SPECIES_AIPOM (Level 28-28)
+      SPECIES_AIPOM (Level 18-18)
+      SPECIES_AIPOM (Level 20-20)
+      SPECIES_AIPOM (Level 26-26)
+      SPECIES_AIPOM (Level 20-20)
+      SPECIES_AIPOM (Level 26-26)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave7
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_SHUCKLE (Level 22-22)
+      SPECIES_SHUCKLE (Level 24-24)
+      SPECIES_SHUCKLE (Level 20-20)
+      SPECIES_SHUCKLE (Level 26-26)
+      SPECIES_SHUCKLE (Level 22-22)
+      SPECIES_SHUCKLE (Level 24-24)
+      SPECIES_SHUCKLE (Level 28-28)
+      SPECIES_SHUCKLE (Level 18-18)
+      SPECIES_SHUCKLE (Level 20-20)
+      SPECIES_SHUCKLE (Level 26-26)
+      SPECIES_SHUCKLE (Level 20-20)
+      SPECIES_SHUCKLE (Level 26-26)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave8
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_STANTLER (Level 22-22)
+      SPECIES_STANTLER (Level 24-24)
+      SPECIES_STANTLER (Level 20-20)
+      SPECIES_STANTLER (Level 26-26)
+      SPECIES_STANTLER (Level 22-22)
+      SPECIES_STANTLER (Level 24-24)
+      SPECIES_STANTLER (Level 28-28)
+      SPECIES_STANTLER (Level 18-18)
+      SPECIES_STANTLER (Level 20-20)
+      SPECIES_STANTLER (Level 26-26)
+      SPECIES_STANTLER (Level 20-20)
+      SPECIES_STANTLER (Level 26-26)
+
+  Encounter Map: MAP_ALTERING_CAVE
+  Encounter Base Label: gAlteringCave9
+  land_mons:
+    Encounter Rate: 7
+    Mons:
+      SPECIES_SMEARGLE (Level 22-22)
+      SPECIES_SMEARGLE (Level 24-24)
+      SPECIES_SMEARGLE (Level 20-20)
+      SPECIES_SMEARGLE (Level 26-26)
+      SPECIES_SMEARGLE (Level 22-22)
+      SPECIES_SMEARGLE (Level 24-24)
+      SPECIES_SMEARGLE (Level 28-28)
+      SPECIES_SMEARGLE (Level 18-18)
+      SPECIES_SMEARGLE (Level 20-20)
+      SPECIES_SMEARGLE (Level 26-26)
+      SPECIES_SMEARGLE (Level 20-20)
+      SPECIES_SMEARGLE (Level 26-26)
+
+  Encounter Map: MAP_METEOR_FALLS_STEVENS_CAVE
+  Encounter Base Label: gMeteorFalls_StevensCave
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_NOIBAT (Level 33-33)
+      SPECIES_SOLROCK (Level 35-35)
+      SPECIES_SOLROCK (Level 33-33)
+      SPECIES_SOLROCK (Level 37-37)
+      SPECIES_NOIBAT (Level 35-35)
+      SPECIES_SOLROCK (Level 39-39)
+      SPECIES_NOIBAT (Level 38-38)
+      SPECIES_NOIBAT (Level 40-40)
+      SPECIES_NOIBAT (Level 38-38)
+      SPECIES_NOIBAT (Level 40-40)
+
+  Encounter Map: MAP_TERRAKIONS_CAVE
+  Encounter Base Label: gTerrakionsCave
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MEDICHAM (Level 38-38)
+      SPECIES_BEWEAR (Level 35-35)
+      SPECIES_GURDURR (Level 40-40)
+      SPECIES_THROH (Level 40-40)
+      SPECIES_SAWK (Level 41-41)
+      SPECIES_SCRAGGY (Level 36-36)
+      SPECIES_MIENFOO (Level 38-38)
+      SPECIES_PURUGLY (Level 42-42)
+      SPECIES_RIOLU (Level 38-38)
+      SPECIES_PIGNITE (Level 43-43)
+      SPECIES_TOXICROAK (Level 44-44)
+      SPECIES_HITMONCHAN (Level 45-45)
+
+  Encounter Map: MAP_TERRAKIONS_CAVE_F1_1
+  Encounter Base Label: gTerrakionsCave_F1_10
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MEDICHAM (Level 38-38)
+      SPECIES_BEWEAR (Level 35-35)
+      SPECIES_GURDURR (Level 40-40)
+      SPECIES_THROH (Level 40-40)
+      SPECIES_SAWK (Level 41-41)
+      SPECIES_SCRAGGY (Level 36-36)
+      SPECIES_MIENFOO (Level 38-38)
+      SPECIES_PURUGLY (Level 42-42)
+      SPECIES_RIOLU (Level 38-38)
+      SPECIES_PIGNITE (Level 43-43)
+      SPECIES_TOXICROAK (Level 44-44)
+      SPECIES_HITMONLEE (Level 45-45)
+
+  Encounter Map: MAP_TERRAKIONS_CAVE_F2
+  Encounter Base Label: gTerrakionsCave_F20
+  land_mons:
+    Encounter Rate: 10
+    Mons:
+      SPECIES_MEDICHAM (Level 38-38)
+      SPECIES_BEWEAR (Level 35-35)
+      SPECIES_GURDURR (Level 40-40)
+      SPECIES_THROH (Level 40-40)
+      SPECIES_SAWK (Level 41-41)
+      SPECIES_SCRAGGY (Level 36-36)
+      SPECIES_MIENFOO (Level 38-38)
+      SPECIES_PURUGLY (Level 42-42)
+      SPECIES_RIOLU (Level 38-38)
+      SPECIES_PIGNITE (Level 43-43)
+      SPECIES_TOXICROAK (Level 44-44)
+      SPECIES_PRIMEAPE (Level 45-45)
+  water_mons:
+    Encounter Rate: 4
+    Mons:
+      SPECIES_SLOWPOKE (Level 5-35)
+      SPECIES_KINGLER (Level 28-35)
+      SPECIES_STARYU (Level 34-45)
+      SPECIES_OMANYTE (Level 25-35)
+      SPECIES_KABUTO (Level 25-35)
+Encounter Group: gBattlePyramidWildMonHeaders

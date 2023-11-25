@@ -1,0 +1,20 @@
+{
+  "files": {
+    "commands/moves.js": [
+      {
+        "id": "e2037414-76bd-4204-b51b-96e8ceb24fc4",
+        "line": 1,
+        "version": 263,
+        "index": 0
+      }
+    ],
+    "commands/save.sav": [
+      {
+        "id": "9353dc01-cc9e-4cca-b011-ee489d109e28",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
